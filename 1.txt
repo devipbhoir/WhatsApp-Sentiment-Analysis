@@ -1,0 +1,3018 @@
+6/14/24, 4:39 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+6/14/24, 4:39 PM - You created group "Grow together"
+6/14/24, 4:39 PM - Kaushik: 👀
+6/14/24, 4:40 PM - Riya Apsit: Aab ye  kis liye bnaya grp <This message was edited>
+6/14/24, 4:41 PM - Kaushik: Saath me karenge 👀?
+6/14/24, 4:41 PM - Riya Apsit: 👀
+6/14/24, 4:41 PM - Riya Apsit: Kya ??
+6/14/24, 4:42 PM - Kaushik: 🤞😂
+6/14/24, 4:42 PM - Kaushik: Are group ka naam kya h
+6/14/24, 4:42 PM - Riya Apsit: 🤣🤣
+6/14/24, 4:42 PM - Riya Apsit: Haa samjha woh phele hi
+6/14/24, 4:43 PM - Kaushik: Bc threesome karne nai bola💀💀
+6/14/24, 4:43 PM - Riya Apsit: 🤦‍♀️🙄
+6/14/24, 4:45 PM - Kaushik: 😂😂😂
+6/14/24, 5:12 PM - Kaushik: Hello
+6/14/24, 5:21 PM - Kaushik: Link deta hu
+6/14/24, 5:23 PM - Kaushik: https://meet.google.com/ffp-btjk-cwo
+6/14/24, 5:23 PM - Kaushik: @918856834922 @919322229318
+6/14/24, 5:27 PM - Kaushik: # E-Diary: Your Digital Companion for Effortless Journaling 
+<p align="center">
+  <img src="1.gif" alt="SehatSaathi" width="300" height="300">
+</p>
+
+<h1 align="center">
+  <br>
+  E-Diary: Your Digital Companion for Effortless Journaling 
+  <br>
+</h1>
+
+<h4 align="center">E-Diary revolutionizes journaling with an intelligent system for personal and academic record management, ensuring seamless organization and easy access to your digital chronicles.</h4>
+
+## Problem Identified 🚑
+
+Traditional journaling and record-keeping methods can be cumbersome and inefficient, leading to disorganization and difficulty in accessing important personal and academic information. Moreover, conventional diary systems lack the integration of modern technologies that could enhance the user experience and provide valuable insights. There is a need for a streamlined and intelligent system that offers an intuitive interface, efficient organization, and easy access to digital records. This project addresses these issues by developing a comprehensive E-Diary solution that revolutionizes personal and academic record management, leveraging advanced technology for seamless journaling and effective information retrieval.
+
+## 🚀 Proposed Solution: Introducing E-Diary!
+
+Welcome to the future of journaling! Say goodbye to traditional diaries and hello to E-Diary, your intelligent companion for seamless personal and academic record management.
+
+### What is E-Diary?
+
+E-Diary is an innovative digital journaling system that transforms the way you manage personal and academic records. By integrating advanced technology, E-Diary offers seamless organization, easy access to your digital chronicles, and an intuitive user interface. Say goodbye to traditional diaries and experience the future of efficient and intelligent journaling.
+
+### How Does It Work?
+
+E-Diary leverages advanced technology to offer a seamless and efficient journaling experience. Users can effortlessly record their personal and academic notes, which are securely stored and easily accessible. The system provides intuitive organization tools and smart search capabilities, ensuring that you can quickly find and manage your digital entries. Whether you're tracking daily activities, academic progress, or personal reflections, E-Diary simplifies and enhances the record-keeping process.
+
+### Features Tailored For You:
+
+- **Smart Organization:** Effortlessly organize personal and academic notes with intuitive categorization and tagging features, ensuring easy access and management of your digital entries.
+- **Advanced Search:** Quickly find specific entries or information using powerful search capabilities, making it simple to retrieve past records.
+- **Multi-user Access:** Customize the experience for different user roles, including students, educators, and personal users, each with specific functionalities tailored to their needs.
+
+### Tech Stack 🛠️
+
+This section lists major frameworks and libraries used in the project.
+
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+* ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing 🤝
+
+Contributions are welcome and appreciated! Here's how you can contribute to this project:
+
+1. **Fork** the project.
+2. Create a new **branch** for your feature or bug fix (`git checkout -b feature/YourFeature` or `git checkout -b bugfix/YourBugFix`).
+3. **Commit** your changes (`git commit -am 'Add some feature'` or `git commit -am 'Fix some bug'`).
+4. **Push** your branch to your fork on GitHub (`git push origin feature/YourFeature` or `git push origin bugfix/YourBugFix`).
+5. Submit a **pull request** to the `main` branch of this repository.
+
+If you have any suggestions for improvements, feature requests, or encounter any issues, please feel free to open an issue.
+
+Your contributions help make this project better for everyone. Thank you for your help! 🙌
+
+## Support 📞
+
+If you encounter any issues or have questions, we're here to help!
+
+- **Issues:** If you encounter any problems with the application, please [open an issue](https://github.com/kaushikp020603/SehatSathi/issues) on the repository. We'll do our best to address it promptly.
+
+- **General Inquiries:** For general inquiries or further assistance, feel free to reach out to the project maintainers:
+  - [Kaushik](mailto:kaushik020603@gmail.com)
+  - [Amogh](mailto:amoghmparulekar@gmail.com)
+  - [Ajit](mailto:ajit051073@gmail.com)
+  - [Riya](mailto:riyap140503@gmail.com)
+
+Don't hesitate to contact us. We're here to support you!
+
+![GIF showing example](GIF3.gif)
+
+## Acknowledgments 🙏
+
+- Special thanks to Amogh Parulekar, Ajit Pawar, and Riya Patel for their contributions to this project
+
+## License 📝
+
+- This project is licensed under the [MIT License](LICENSE).
+6/14/24, 5:31 PM - Kaushik: <Media omitted>
+6/14/24, 5:34 PM - Riya Apsit: awaj aarha h
+6/14/24, 5:38 PM - Riya Apsit: Yrr barish ke wajah se network issue che
+6/14/24, 5:39 PM - Kaushik: chi gaav wali
+6/14/24, 5:39 PM - Riya Apsit: Hattt
+6/14/24, 5:49 PM - Kaushik: https://www.canva.com/design/DAGIHJUpMbA/qvr7gIvDVooIQSECfEFmtA/edit?utm_content=DAGIHJUpMbA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+6/14/24, 5:49 PM - Kaushik: You deleted this message
+6/14/24, 5:59 PM - Kaushik: <Media omitted>
+6/14/24, 6:01 PM - Riya Apsit: Thankss
+6/14/24, 6:05 PM - Kaushik: npu
+6/14/24, 6:13 PM - Kaushik: https://github.com/kaushikp020603/E-Commerce-website/tree/master
+6/14/24, 6:13 PM - Kaushik: @919322229318 @918856834922
+6/14/24, 6:14 PM - Riya Apsit: gg
+6/14/24, 6:35 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_ecommerce-onlineshopping-webdevelopment-activity-7207366777503129601-qkLs?utm_source=share&utm_medium=member_desktop
+6/15/24, 7:27 PM - Kaushik: Live karte h?
+6/15/24, 7:28 PM - Kaushik: @919322229318 @918856834922
+6/15/24, 7:28 PM - Gayuuuuu😛: yupp
+6/15/24, 7:28 PM - Gayuuuuu😛: Chalel
+6/15/24, 7:28 PM - Kaushik: Account banao
+6/15/24, 7:30 PM - Riya Apsit: back jaa
+6/15/24, 7:50 PM - Kaushik: Tera horaha?
+6/15/24, 7:50 PM - Kaushik: @919322229318
+6/15/24, 7:51 PM - Riya Apsit: yes
+6/15/24, 7:51 PM - Kaushik: Create hua?
+6/15/24, 7:51 PM - Riya Apsit: horha h
+6/15/24, 7:52 PM - Kaushik: Ok
+6/15/24, 8:13 PM - Kaushik: Ab ye intent dialogur vagerw nai h
+6/15/24, 8:13 PM - Kaushik: Sidha actions naaam ka feature h
+6/15/24, 8:13 PM - Kaushik: Intent ke jagah phrases h
+6/15/24, 8:13 PM - Riya Apsit: bhai sign up kar de phele humko
+6/15/24, 8:14 PM - Gayuuuuu😛: Right 😂
+6/15/24, 8:15 PM - Kaushik: <Media omitted>
+6/15/24, 8:16 PM - Riya Apsit: waah
+6/15/24, 8:16 PM - Kaushik: Muahahaha
+6/15/24, 8:16 PM - Kaushik: <Media omitted>
+6/15/24, 8:16 PM - Riya Apsit: kuch samajh nhi arha h mereko 🥲
+6/15/24, 8:36 PM - Kaushik: <Media omitted>
+6/15/24, 8:57 PM - Kaushik: Sogaye kya
+6/15/24, 8:57 PM - Kaushik: Me itna skip kar ra hu
+6/15/24, 8:58 PM - Kaushik: Koi kuch nai bol raha
+6/15/24, 8:58 PM - Kaushik: 😂
+6/15/24, 8:58 PM - Riya Apsit: yes
+6/15/24, 8:58 PM - Gayuuuuu😛: ✨
+6/15/24, 8:58 PM - Gayuuuuu😛: I have a question
+6/15/24, 8:58 PM - Kaushik: Ask
+6/15/24, 8:59 PM - Gayuuuuu😛: Tula tari samjtay ? Bec yevda skip kartoyes
+6/15/24, 8:59 PM - Kaushik: Samajta tevhach skip karto
+6/15/24, 8:59 PM - Kaushik: 😂
+6/15/24, 8:59 PM - Riya Apsit: yes 😂
+6/15/24, 8:59 PM - Kaushik: # E-Commerce Website: Your Complete Solution for Online Shopping
+
+<p align="center">
+  <img src="2.gif" alt="SehatSaathi" width="300" height="300">
+</p>
+
+<h1 align="center">
+  <br>
+  E-Commerce Website: Your Complete Solution for Online Shopping
+  <br>
+</h1>
+
+<h4 align="center">This comprehensive e-commerce platform integrates advanced features to provide a seamless and efficient shopping experience for both customers and administrators.</h4>
+
+## Problem Identified 🚑
+
+Traditional e-commerce platforms can be limited in functionality and difficult to manage, leading to inefficiencies and a poor user experience. These platforms often lack modern features that enhance both the shopping experience and backend management. There is a need for a complete e-commerce solution that integrates advanced technologies, provides an intuitive user interface, and offers robust management tools. This project addresses these issues by developing a comprehensive e-commerce website that revolutionizes online shopping with cutting-edge features and efficient management capabilities.
+
+## 🚀 Proposed Solution: Introducing Our E-Commerce Platform!
+
+Welcome to the future of online shopping! Say goodbye to outdated e-commerce platforms and hello to a comprehensive solution designed to enhance every aspect of the shopping and management experience.
+
+### What is Our E-Commerce Platform?
+
+Our E-Commerce Platform is a robust and feature-rich system that transforms the way you manage online shopping. By integrating advanced technologies, this platform offers a seamless shopping experience for customers and efficient management tools for administrators. Experience the future of e-commerce with intuitive interfaces, powerful features, and modern design.
+
+### How Does It Work?
+
+Our E-Commerce Platform leverages advanced technologies to offer a seamless and efficient shopping experience. Customers can easily browse products, manage their cart, and complete purchases with a user-friendly interface. Administrators have access to powerful tools for managing products, orders, users, and more, ensuring efficient and effective e-commerce operations.
+
+### Features Tailored For You:
+
+#### Front-End Features:
+
+- **Responsive Layout:** Enjoy a seamless shopping experience across all devices.
+- **Shopping Cart & Wishlist:** Easily manage products you intend to buy or save for later.
+- **Product Reviews & Ratings:** Share and read reviews to make informed purchasing decisions.
+- **Coupons & Discounts:** Apply promotions and discounts for cost-effective shopping.
+- **SEO Support:** Improve visibility with SEO-friendly URLs and meta tags.
+- **Social Media Integration:** Share and follow products on various social platforms.
+- **Payment Integration:** Secure and easy payment processing with PayPal integration.
+- **Order Tracking:** Track the status of your orders in real-time.
+
+#### Admin Features:
+
+- **Admin Roles & Permissions:** Manage access with role-based permissions.
+- **Product Management:** Easily add, update, and delete products.
+- **Order Management:** View and manage customer orders efficiently.
+- **User Management:** Handle user accounts and their activities.
+- **Coupon Management:** Create and manage discount coupons.
+- **Analytics & Reports:** Generate insightful reports and analytics for better decision-making.
+- **Real-Time Notifications:** Stay updated with real-time alerts for critical actions.
+
+#### User Dashboard:
+
+- **Order Management:** View and manage your orders.
+- **Review Management:** Provide feedback on purchased products.
+- **Profile Settings:** Manage your personal information and preferences.
+
+### Tech Stack 🛠
+
+This section lists major frameworks and libraries used in the project.
+
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Setup
+
+1. Clone the repo and cd into it
+2. In your terminal: `composer install`
+3. Rename or copy `.env.example` file to `.env`
+4. Run `php artisan key:generate`
+5. Set your database credentials in your `.env` file
+6. Set your Braintree credentials in your `.env` file if you want to use PayPal
+7. Import db file (`database/e-shop.sql`) into your database (`mysql,sql`)
+8. Run `npm install`
+9. Run `npm run watch`
+10. Run `php artisan storage:link`
+11. Edit `.env` file: remove APP_URL
+12. Run `php artisan serve` or use a virtual host
+13. Visit `localhost:8000` in your browser
+14. Visit `/admin` for the admin panel. Admin Email/Password: `admin@gmail.com`/`1111`. User Email/Password: `user@gmail.com`/`1111`
+
+## Contributing 🤝
+
+Contributions are welcome and appreciated! Here's how you can contribute to this project:
+
+1. **Fork** the project.
+2. Create a new **branch** for your feature or bug fix (`git checkout -b feature/YourFeature` or `git checkout -b bugfix/YourBugFix`).
+3. **Commit** your changes (`git commit -am 'Add some feature'` or `git commit -am 'Fix some bug'`).
+4. **Push** your branch to your fork on GitHub (`git push origin feature/YourFeature` or `git push origin bugfix/YourBugFix`).
+5. Submit a **pull request** to the main branch of this repository.
+
+If you have any suggestions for improvements, feature requests, or encounter any issues, please feel free to open an issue.
+
+Your contributions help make this project better for everyone. Thank you for your help! 🙌
+
+## Support 📞
+
+If you encounter any issues or have questions, we're here to help!
+
+- **Issues:** If you encounter any problems with the application, please [open an issue](https://github.com/kaushikp020603/E-Commerce-website/issues) on the repository. We'll do our best to address it promptly.
+- **General Inquiries:** For general inquiries or further assistance, feel free to reach out to the project maintainers:
+  - [Kaushik](mailto:kaushik020603@gmail.com)
+  - [Amogh](mailto:amoghmparulekar@gmail.com)
+  - [Ajit](mailto:ajit051073@gmail.com)
+  - [Riya](mailto:riyap140503@gmail.com)
+
+Don't hesitate to contact us. We're here to support you!
+
+## License 📝
+
+This project is licensed under the [MIT License](LICENSE).
+6/15/24, 9:00 PM - Kaushik: <Media omitted>
+6/15/24, 9:00 PM - Riya Apsit: ty
+6/15/24, 9:00 PM - Kaushik: Gg
+6/15/24, 9:02 PM - Kaushik: Aise kyu lag raha tumhare lie jyada hi skip horaha
+6/15/24, 9:02 PM - Kaushik: 💀
+6/15/24, 9:02 PM - Riya Apsit: ma toh deekh hi rhi
+6/15/24, 9:02 PM - Kaushik: 😂
+6/15/24, 9:02 PM - Gayuuuuu😛: If you know so why are you asking 🤣
+6/15/24, 9:02 PM - Riya Apsit: tabhi github upload kar rhi hu
+6/15/24, 9:02 PM - Kaushik: 😂me toh ghapp ghapp kar ra hu samaj aagaya toh
+6/15/24, 9:03 PM - Riya Apsit: hattt
+6/15/24, 9:03 PM - Gayuuuuu😛: Session khatam karun ch manar tu aaj
+6/15/24, 9:03 PM - Kaushik: 😂certificate mala bhetel
+6/15/24, 9:03 PM - Gayuuuuu😛: OMG
+6/15/24, 9:03 PM - Kaushik: <Media omitted>
+6/15/24, 9:04 PM - Gayuuuuu😛: Cheeting
+6/15/24, 9:04 PM - Riya Apsit: 😏 ye kon btayega
+6/15/24, 9:04 PM - Kaushik: Mhanun mi pathavaycho tumhala courses tumhi enroll kelach nai
+6/15/24, 9:04 PM - Kaushik: 😂
+6/15/24, 9:04 PM - Kaushik: Mi kela
+6/15/24, 9:04 PM - Gayuuuuu😛: Sangnar kon he Aadhi?
+6/15/24, 9:04 PM - Kaushik: 😂vicharla koni
+6/15/24, 9:04 PM - Kaushik: 😂😂😂
+6/15/24, 9:04 PM - Gayuuuuu😛: Chalak very chalak
+6/15/24, 9:04 PM - Riya Apsit: dushman na kare dost ne won kam kiya h
+6/15/24, 9:04 PM - Gayuuuuu😛: 💯
+6/15/24, 9:05 PM - Riya Apsit: link de abhi ke abhi
+6/15/24, 9:05 PM - Riya Apsit: sign up karke de
+6/15/24, 9:05 PM - Riya Apsit: abhi ke abhi
+6/15/24, 9:05 PM - Kaushik: Kiska link
+6/15/24, 9:05 PM - Riya Apsit: 😂😂
+6/15/24, 9:05 PM - Gayuuuuu😛: Now happy kaushik khatam honar aata course
+6/15/24, 9:05 PM - Riya Apsit: watson ka
+6/15/24, 9:08 PM - Kaushik: <Media omitted>
+6/15/24, 9:08 PM - Kaushik: 👀
+6/15/24, 9:08 PM - Kaushik: @918856834922 @919322229318
+6/15/24, 9:09 PM - Gayuuuuu😛: Maza aahe already udemy account
+6/15/24, 9:09 PM - Kaushik: Hmm
+6/15/24, 9:09 PM - Kaushik: <Media omitted>
+6/15/24, 9:09 PM - Kaushik: Demo dekhoge
+6/15/24, 9:12 PM - Kaushik: kaushikprabhunerurkar225@apsit.edu.in
+6/15/24, 9:12 PM - Kaushik: Kaushikp020603+1234
+6/15/24, 9:17 PM - Riya Apsit: kya login ?
+6/15/24, 9:25 PM - Riya Apsit: aage kya ??
+6/15/24, 9:37 PM - Kaushik: Nachoo
+6/15/24, 9:37 PM - Riya Apsit: hattt
+6/15/24, 9:55 PM - Gayuuuuu😛: Guys you should carry on will meet tomorrow 😌✨
+6/15/24, 9:55 PM - Kaushik: Leave kardo
+6/15/24, 9:55 PM - Kaushik: Kal baat karte h👍
+6/15/24, 9:55 PM - Gayuuuuu😛: Ok
+6/15/24, 9:56 PM - Kaushik: Ha
+6/15/24, 9:56 PM - Riya Apsit: ok
+6/15/24, 9:57 PM - Kaushik: 👍
+6/15/24, 10:14 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_ai-ibm-watsonassistant-activity-7207784843647102976-qEqQ?utm_source=share&utm_medium=member_android
+6/15/24, 10:21 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_udemy-ibm-watsonassistant-activity-7207786316695015429-Hm6R?utm_source=share&utm_medium=member_desktop
+6/15/24, 11:32 PM - Riya Apsit: gg
+6/15/24, 11:32 PM - Riya Apsit: Kl humko bhi karna h ye
+6/15/24, 11:35 PM - Kaushik: Linkedin post?
+6/15/24, 11:36 PM - Riya Apsit: Phele ibm wala toh kare
+6/15/24, 11:36 PM - Riya Apsit: Badme post
+6/15/24, 11:49 PM - Kaushik: Lol
+6/16/24, 12:18 PM - Kaushik: live collab bana lo
+6/16/24, 12:17 PM - You added Akanksha Bhoir
+6/16/24, 12:18 PM - Gayuuuuu😛: Ok
+6/16/24, 12:18 PM - Akanksha Bhoir: Ok
+6/16/24, 12:18 PM - Kaushik: collab create karlo
+6/16/24, 12:18 PM - Kaushik: saath me karlete h
+6/16/24, 12:19 PM - Kaushik: <Media omitted>
+6/16/24, 12:19 PM - Kaushik: data set for this
+6/16/24, 12:19 PM - Kaushik: @919322229318  you wanna join?
+6/16/24, 12:20 PM - Kaushik: create karloge toh batana
+6/16/24, 12:20 PM - Kaushik: me continue karta hu
+6/16/24, 12:21 PM - Kaushik: mic kholke bata dena
+6/16/24, 12:23 PM - Kaushik: hua kya?
+6/16/24, 12:23 PM - Kaushik: @918591250210 @918856834922
+6/16/24, 12:24 PM - Akanksha Bhoir: Ho
+6/16/24, 12:27 PM - Kaushik: .
+6/16/24, 12:28 PM - Riya Apsit: yes
+6/16/24, 12:28 PM - Kaushik: https://meet.google.com/non-wgov-pgx
+6/16/24, 12:29 PM - Kaushik: @919322229318
+6/16/24, 12:29 PM - Kaushik: import pandas as pd
+import numpy as np
+import nltk
+import re
+import string
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+
+from nltk.util import pr
+from nltk.corpus import stopwords
+6/16/24, 12:29 PM - Kaushik: data=pd.read_csv("twitter.csv")
+print(data.head())
+6/16/24, 12:29 PM - Kaushik: itna kiya h abhi tak
+6/16/24, 12:29 PM - Kaushik: collab bana le
+6/16/24, 12:29 PM - Kaushik: aur itna kar
+6/16/24, 12:29 PM - Riya Apsit: ok done
+6/16/24, 12:36 PM - Kaushik: samaj raha h na sabko?
+6/16/24, 12:37 PM - Gayuuuuu😛: Yess
+6/16/24, 12:37 PM - Riya Apsit: yes
+6/16/24, 12:41 PM - Kaushik: re.sub('\[.*?\]','',text):
+
+Purpose: Removes any text enclosed in square brackets [].
+\[: Matches the literal [ character. In regular expressions, [ is a special character that begins a character class, so it must be escaped with a backslash to match the literal character.
+.*?: Matches any character (.) zero or more times (*), but as few times as possible (?), making it non-greedy.
+\]: Matches the literal ] character.
+Combined: \[.*?\] matches a substring that starts with [, followed by any characters (as few as possible), and ends with ].
+re.sub('\[.*?\]','',text): Replaces all such matched substrings with an empty string, effectively removing them from text.
+re.sub('https?://\S+|www\.\S+','',text):
+
+Purpose: Removes URLs from the text.
+https?://: Matches http:// or https://. The s? part means that the s is optional.
+\S+: Matches one or more (+) non-whitespace characters (\S).
+|: Acts as an OR operator.
+www\.: Matches the literal string www.. The . is escaped with a backslash to match the literal period character.
+\S+: Again, matches one or more non-whitespace characters.
+Combined: https?://\S+|www\.\S+ matches any string that starts with http:// or https:// followed by non-whitespace characters, or starts with www. followed by non-whitespace characters.
+re.sub('https?://\S+|www\.\S+','',text): Replaces all such matched URLs with an empty string, effectively removing them from text.
+re.sub('<.*?>+','',text):
+
+Purpose: Removes HTML tags from the text.
+<: Matches the literal < character.
+.*?: Matches any character (.) zero or more times (*), but as few times as possible (?), making it non-greedy.
+>: Matches the literal > character.
+Combined: <.*?> matches a substring that starts with <, followed by any characters (as few as possible), and ends with >.
+re.sub('<.*?>+','',text): Replaces all such matched HTML tags with an empty string, effectively removing them from text.
+Summary:
+The first expression removes any text within square brackets.
+The second expression removes URLs starting with http://, https://, or www..
+The third expression removes HTML tags.
+6/16/24, 12:48 PM - Kaushik: stemmer=nltk.SnowballStemmer("english")
+6/16/24, 12:48 PM - Kaushik: ye missing h beech me
+6/16/24, 12:48 PM - Kaushik: error dega
+6/16/24, 12:48 PM - Kaushik: iske bina
+6/16/24, 12:54 PM - Kaushik: error aaya kisiko?
+6/16/24, 12:55 PM - Riya Apsit: type nhi hua h pura last ka do line baaki h
+6/16/24, 12:56 PM - Akanksha Bhoir: Nahi
+6/16/24, 12:57 PM - Kaushik: mereko error aaying
+6/16/24, 12:57 PM - Kaushik: valuerror
+6/16/24, 12:57 PM - Akanksha Bhoir: Last part madhe ?
+6/16/24, 1:00 PM - Kaushik: ValueError                                Traceback (most recent call last)
+<ipython-input-22-970b30823d17> in <cell line: 5>()
+      3 
+      4 cv = CountVectorizer()
+----> 5 x = cv.fit_transform(x)
+      6 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+      7 
+
+1 frames
+/usr/local/lib/python3.10/dist-packages/sklearn/feature_extraction/text.py in _count_vocab(self, raw_documents, fixed_vocab)
+   1292             vocabulary = dict(vocabulary)
+   1293             if not vocabulary:
+-> 1294                 raise ValueError(
+   1295                     "empty vocabulary; perhaps the documents only contain stop words"
+   1296                 )
+
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+6/16/24, 1:02 PM - Kaushik: kisiko nai aaya?
+6/16/24, 1:02 PM - Gayuuuuu😛: Nope
+6/16/24, 1:04 PM - Gayuuuuu😛: He wali line purn pathav
+6/16/24, 1:04 PM - Kaushik: full aahe
+6/16/24, 1:05 PM - Gayuuuuu😛: <Media omitted>
+6/16/24, 1:05 PM - Gayuuuuu😛: See ha error yetoy bass
+6/16/24, 1:07 PM - Gayuuuuu😛: Done done error solved
+6/16/24, 1:07 PM - Kaushik: majha pan done
+6/16/24, 1:07 PM - Kaushik: thanks @918591250210
+6/16/24, 1:07 PM - Akanksha Bhoir: bro tyane fakt stopword paryant thevl ahe poodhe kahi lihl nahi ahe
+6/16/24, 1:07 PM - Gayuuuuu😛: Arre
+6/16/24, 1:07 PM - Kaushik: hmm
+6/16/24, 1:07 PM - Kaushik: done
+6/16/24, 1:12 PM - Gayuuuuu😛: Done
+6/16/24, 1:12 PM - Kaushik: <Media omitted>
+6/16/24, 1:12 PM - Kaushik: kalyug ka normal tweet
+6/16/24, 1:15 PM - Gayuuuuu😛: Next??
+6/16/24, 1:18 PM - Kaushik: <Media omitted>
+6/16/24, 1:19 PM - Kaushik: <Media omitted>
+6/16/24, 1:22 PM - Kaushik: Pehle GitHub pe dalte h
+6/16/24, 1:22 PM - Kaushik: then linkedin post
+6/16/24, 1:27 PM - Akanksha Bhoir: meet leave  karu ka?
+6/16/24, 1:32 PM - Kaushik: <h1 align="center">
+  <br>
+  Hate Speech Detection Using Machine Learning
+  <br>
+</h1>
+
+<h4 align="center">A machine learning project utilizing a Decision Tree Classifier to detect hate speech in text, enhancing the ability to identify and mitigate harmful content online.</h4>
+
+## Problem Identified 🚨
+
+The rise of online platforms has also led to an increase in hate speech, which can cause significant harm to individuals and communities. Current moderation techniques are often manual and unable to keep up with the volume of content, leading to delayed or missed detection of harmful speech. There is a need for automated systems that can quickly and accurately identify hate speech, providing timely interventions and fostering safer online environments.
+
+## 🚀 Proposed Solution
+
+Introducing an intelligent hate speech detection system using machine learning techniques.
+
+### What is This Project About?
+
+This project leverages a Decision Tree Classifier to automatically detect hate speech in textual content. By analyzing text data, the system can classify whether a given piece of content contains hate speech or not.
+
+### How Does It Work?
+
+The system uses a Decision Tree Classifier, trained on a labeled dataset of text instances, to predict the presence of hate speech. The classifier analyzes features extracted from the text and determines the likelihood of it being hate speech.
+
+### Features:
+
+- **Automated Detection:** Quickly and accurately identifies hate speech in text.
+- **Machine Learning:** Utilizes a Decision Tree Classifier for classification.
+- **Python-based:** Developed using Python for easy integration and flexibility.
+
+### Tech Stack 🛠️
+
+This section lists major frameworks and libraries used in the project.
+
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+## Usage
+
+To get started with this project on , follow these steps:
+
+1. **Open the Notebook:**
+   Open the notebook in Google Colab or Jupyter Notebook
+
+2. **Save a Copy to Google Drive:**
+   Save a copy of the notebook to your Google Drive by clicking on `File` -> `Save a copy in Drive...`. This step is necessary to ensure that you can edit and run the notebook.
+
+3. **Upload the Dataset:**
+   Upload the `twitter.csv` dataset file to Google Colab. You can upload files by clicking on the folder icon in the left sidebar, then clicking on `Upload` and selecting your dataset file.
+
+
+
+## Contributing 🤝
+
+Contributions are welcome and appreciated! Here's how you can contribute to this project:
+
+1. **Fork** the project.
+2. Create a new **branch** for your feature or bug fix (`git checkout -b feature/YourFeature` or `git checkout -b bugfix/YourBugFix`).
+3. **Commit** your changes (`git commit -am 'Add some feature'` or `git commit -am 'Fix some bug'`).
+4. **Push** your branch to your fork on GitHub (`git push origin feature/YourFeature` or `git push origin bugfix/YourBugFix`).
+5. Submit a **pull request** to the `main` branch of this repository.
+
+If you have any suggestions for improvements, feature requests, or encounter any issues, please feel free to open an issue.
+
+Your contributions help make this project better for everyone. Thank you for your help! 🙌
+
+## Support 📞
+
+If you encounter any issues or have questions, we're here to help!
+
+- **Issues:** If you encounter any problems with the application, please [open an issue](https://github.com/yourusername/hate-speech-detection/issues) on the repository. We'll do our best to address it promptly.
+
+## License 📝
+
+This project is licensed under the [MIT License](LICENSE).
+6/16/24, 1:32 PM - Kaushik: use this readme file
+6/16/24, 1:32 PM - Kaushik: direct paste karna
+6/16/24, 1:33 PM - Kaushik: https://github.com/kaushikp020603/Hate-Speech-Detection-using-Machine-Learning/tree/main
+6/16/24, 1:33 PM - Kaushik: check this
+6/16/24, 1:34 PM - Riya Apsit: gg
+6/16/24, 1:34 PM - Riya Apsit: done na
+6/16/24, 1:34 PM - Riya Apsit: ma off ja rhi abhi samko
+6/16/24, 1:37 PM - Kaushik: me linked in post bana raha
+6/16/24, 1:41 PM - Kaushik: You deleted this message
+6/16/24, 1:42 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_machinelearning-hatespeechdetection-datascience-activity-7208018023461400577-yBsP?utm_source=share&utm_medium=member_desktop
+6/16/24, 1:42 PM - Kaushik: @918856834922 @919322229318 @918591250210
+6/16/24, 1:42 PM - Gayuuuuu😛: Bola
+6/16/24, 1:44 PM - Kaushik: he dakhvat hoto
+6/16/24, 1:49 PM - Gayuuuuu😛: Accha
+6/16/24, 1:49 PM - Kaushik: Hmm
+6/16/24, 1:49 PM - Riya Apsit: great
+6/16/24, 1:54 PM - Kaushik: Gg
+6/16/24, 2:47 PM - Kaushik: Next meet at 4 Or 5?
+6/16/24, 2:47 PM - Kaushik: Linkedin post karenge aur kuch naya seekhenge
+6/16/24, 3:19 PM - Kaushik: 5
+6/16/24, 3:19 PM - Kaushik: Decided
+6/16/24, 3:43 PM - Riya Apsit: 5
+6/16/24, 3:43 PM - Riya Apsit: Aur ibm wala re Jo baaki h
+6/16/24, 3:54 PM - Kaushik: Ha
+6/16/24, 4:53 PM - Kaushik: 👀ready fellas?
+6/16/24, 4:54 PM - Riya Apsit: ya
+6/16/24, 4:56 PM - Akanksha Bhoir: Yo
+6/16/24, 4:57 PM - Gayuuuuu😛: Yess
+6/16/24, 4:58 PM - Kaushik: Fire detection/ face detection/ whatsApp chat sentiment analysis
+6/16/24, 4:58 PM - Kaushik: Konsa kare?
+6/16/24, 4:58 PM - Riya Apsit: Face
+6/16/24, 4:59 PM - Kaushik: Fire wala is using yolov9
+6/16/24, 4:59 PM - Kaushik: Face is yolov7
+6/16/24, 4:59 PM - Riya Apsit: ur wish
+6/16/24, 4:59 PM - Kaushik: Chat wala dekha nai
+6/16/24, 4:59 PM - Gayuuuuu😛: Koi bhi chalega
+6/16/24, 4:59 PM - Kaushik: https://meet.google.com/egd-hghw-ueo
+6/16/24, 5:00 PM - Kaushik: Pehle post kar dete h tumhara
+6/16/24, 5:00 PM - Kaushik: come everyone
+6/16/24, 5:00 PM - Kaushik: <h1 align="center">
+  <br>
+  Hate Speech Detection Using Machine Learning
+  <br>
+</h1>
+
+<h4 align="center">A machine learning project utilizing a Decision Tree Classifier to detect hate speech in text, enhancing the ability to identify and mitigate harmful content online.</h4>
+
+## Problem Identified 🚨
+
+The rise of online platforms has also led to an increase in hate speech, which can cause significant harm to individuals and communities. Current moderation techniques are often manual and unable to keep up with the volume of content, leading to delayed or missed detection of harmful speech. There is a need for automated systems that can quickly and accurately identify hate speech, providing timely interventions and fostering safer online environments.
+
+## 🚀 Proposed Solution
+
+Introducing an intelligent hate speech detection system using machine learning techniques.
+
+### What is This Project About?
+
+This project leverages a Decision Tree Classifier to automatically detect hate speech in textual content. By analyzing text data, the system can classify whether a given piece of content contains hate speech or not.
+
+### How Does It Work?
+
+The system uses a Decision Tree Classifier, trained on a labeled dataset of text instances, to predict the presence of hate speech. The classifier analyzes features extracted from the text and determines the likelihood of it being hate speech.
+
+### Features:
+
+- **Automated Detection:** Quickly and accurately identifies hate speech in text.
+- **Machine Learning:** Utilizes a Decision Tree Classifier for classification.
+- **Python-based:** Developed using Python for easy integration and flexibility.
+
+### Tech Stack 🛠️
+
+This section lists major frameworks and libraries used in the project.
+
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+## Usage
+
+To get started with this project on , follow these steps:
+
+1. **Open the Notebook:**
+   Open the notebook in Google Colab or Jupyter Notebook
+
+2. **Save a Copy to Google Drive:**
+   Save a copy of the notebook to your Google Drive by clicking on `File` -> `Save a copy in Drive...`. This step is necessary to ensure that you can edit and run the notebook.
+
+3. **Upload the Dataset:**
+   Upload the `twitter.csv` dataset file to Google Colab. You can upload files by clicking on the folder icon in the left sidebar, then clicking on `Upload` and selecting your dataset file.
+
+
+
+## Contributing 🤝
+
+Contributions are welcome and appreciated! Here's how you can contribute to this project:
+
+1. **Fork** the project.
+2. Create a new **branch** for your feature or bug fix (`git checkout -b feature/YourFeature` or `git checkout -b bugfix/YourBugFix`).
+3. **Commit** your changes (`git commit -am 'Add some feature'` or `git commit -am 'Fix some bug'`).
+4. **Push** your branch to your fork on GitHub (`git push origin feature/YourFeature` or `git push origin bugfix/YourBugFix`).
+5. Submit a **pull request** to the `main` branch of this repository.
+
+If you have any suggestions for improvements, feature requests, or encounter any issues, please feel free to open an issue.
+
+Your contributions help make this project better for everyone. Thank you for your help! 🙌
+
+## Support 📞
+
+If you encounter any issues or have questions, we're here to help!
+
+- **Issues:** If you encounter any problems with the application, please [open an issue](https://github.com/yourusername/hate-speech-detection/issues) on the repository. We'll do our best to address it promptly.
+
+## License 📝
+
+This project is licensed under the [MIT License](LICENSE).
+6/16/24, 5:01 PM - Kaushik: @918591250210 @918856834922
+6/16/24, 5:02 PM - Gayuuuuu😛: <Media omitted>
+6/16/24, 5:02 PM - Akanksha Bhoir: 5 minutes  more lagtil
+6/16/24, 5:02 PM - Kaushik: Ok
+6/16/24, 5:03 PM - Kaushik: 🚀 Excited to share my latest project on Hate Speech Detection using Machine Learning! 🛡️
+
+In today's digital age, combating hate speech online is crucial for fostering a safe and inclusive community. I've developed a machine learning model that detects hate speech in text, leveraging a Decision Tree Classifier. This project aims to enhance online safety by automatically identifying harmful content and enabling timely interventions.
+
+🔍 Key Features:
+Advanced Technology: Utilizes machine learning to analyze and classify text data.
+Decision Tree Classifier: Provides accurate detection of hate speech based on trained models.
+Python: Built entirely in Python for flexibility and ease of integration.
+Dataset: Trained on a dataset of Twitter data to ensure real-world applicability.
+
+📊 Results: Initial testing shows promising results with high accuracy in identifying hate speech, which is crucial for proactive moderation and creating safer online spaces.
+
+🤝 Next Steps: I'm enthusiastic about expanding this project to include more diverse datasets and exploring other machine learning algorithms to further improve accuracy and efficiency.
+
+🔗 Learn More: Check out the GitHub repository here for more details and feel free to contribute or provide feedback!
+Link: https://lnkd.in/d9f8Qx_r
+
+Let's work together towards a more inclusive digital environment! 🌐💬
+
+hashtag#MachineLearning hashtag#HateSpeechDetection hashtag#DataScience hashtag#AI hashtag#Python hashtag#TechForGood hashtag#ArtificialIntelligence hashtag#MachineLearningModel hashtag#NLP hashtag#EthicalAI hashtag#TechEthics hashtag#CyberSafety hashtag#DataScience hashtag#DigitalWellbeing
+6/16/24, 5:04 PM - Kaushik: isko chatgpt pe daalke kehna , improvise it
+6/16/24, 5:04 PM - Riya Apsit: kk
+6/16/24, 5:04 PM - Kaushik: <Media omitted>
+6/16/24, 5:04 PM - Kaushik: attach this ss
+6/16/24, 5:05 PM - Kaushik: <Media omitted>
+6/16/24, 5:05 PM - Kaushik: ye chatbot ka recording
+6/16/24, 5:05 PM - Kaushik: 🚀 Exploring the Future of AI with IBM Watson Assistant! 🤖
+
+Hey LinkedIn Community,
+Today, I had the incredible opportunity to dive into the world of AI with IBM Watson Assistant. This powerful tool is redefining how we interact with technology, and I couldn't be more excited to share my experience with you all!
+
+🌟 Highlights of My Experience:
+User-Friendly Interface: Building and training chatbots is intuitive and efficient.
+Advanced AI Capabilities: The natural language understanding and processing are top-notch.
+Customizable Responses: Tailoring the chatbot to specific needs is straightforward.
+Seamless Integration: Easily integrates with various platforms, enhancing user experience.
+
+
+As someone passionate about exploring new technologies, IBM Watson Assistant has truly impressed me with its capabilities. From streamlining customer service to creating engaging user interactions, the potential applications are endless.
+
+🔍 Key Takeaways:
+AI is becoming more accessible and user-friendly.
+Customizable solutions can be tailored to any industry.
+The future of customer engagement is here, and it's powered by AI.
+I'm excited to continue experimenting with IBM Watson Assistant and discovering new ways to leverage its power. If you're interested in AI or have experience with IBM Watson, let's connect and share insights!
+
+hashtag#AI hashtag#IBM hashtag#WatsonAssistant hashtag#Chatbots hashtag#TechInnovation hashtag#FutureOfTech hashtag#CustomerEngagement hashtag#MachineLearning
+6/16/24, 5:05 PM - Kaushik: ye chatbot ka content
+6/16/24, 5:22 PM - Kaushik: .
+6/16/24, 5:23 PM - Kaushik: .
+6/16/24, 5:24 PM - Kaushik: 🚀 Excited to share my latest project on Hate Speech Detection using Machine Learning! 🛡️
+
+In today's digital age, combating hate speech online is crucial for fostering a safe and inclusive community. To address this, I've developed a machine learning model that detects hate speech in text using a Decision Tree Classifier. This project aims to enhance online safety by automatically identifying harmful content and enabling timely interventions.
+
+🔍 Key Features:
+
+Advanced Technology: Utilizes machine learning to analyze and classify text data.
+Decision Tree Classifier: Provides accurate detection of hate speech based on trained models.
+Python: Built entirely in Python for flexibility and ease of integration.
+Dataset: Trained on a dataset of Twitter data to ensure real-world applicability.
+📊 Results:
+Initial testing shows promising results with high accuracy in identifying hate speech, which is crucial for proactive moderation and creating safer online spaces.
+
+🤝 Next Steps:
+I'm enthusiastic about expanding this project to include more diverse datasets and exploring other machine learning algorithms to further improve accuracy and efficiency.
+
+🔗 Learn More:
+Check out the GitHub repository for more details and feel free to contribute or provide feedback! GitHub Repository
+
+Let's work together towards a more inclusive digital environment! 🌐💬
+
+#MachineLearning #HateSpeechDetection #DataScience #AI #Python #TechForGood #ArtificialIntelligence #MachineLearningModel #NLP #EthicalAI #TechEthics #CyberSafety #DigitalWellbeing
+6/16/24, 5:24 PM - Kaushik: 🚀 I’m thrilled to share my latest project: Hate Speech Detection using Machine Learning! 🛡️
+
+In today's digital world, combating hate speech online is crucial for fostering safe and inclusive communities. To address this, I've developed a machine learning model that detects hate speech in text using a Decision Tree Classifier. This project aims to enhance online safety by automatically identifying harmful content and enabling timely interventions.
+
+🔍 Key Features:
+
+Advanced Technology: Leverages machine learning to analyze and classify text data.
+Decision Tree Classifier: Ensures accurate detection of hate speech with a robust model.
+Python: Developed entirely in Python for flexibility and ease of integration.
+Real-world Applicability: Trained on a dataset of Twitter data to ensure practical relevance.
+📊 Results:
+Initial tests show promising results with high accuracy in identifying hate speech, which is essential for proactive moderation and creating safer online environments.
+
+🤝 Next Steps:
+I’m excited about expanding this project to include more diverse datasets and exploring additional machine learning algorithms to further enhance accuracy and efficiency.
+
+🔗 Learn More:
+Check out the GitHub repository for more details and feel free to contribute or provide feedback! GitHub Repository
+
+Let's collaborate to create a more inclusive digital space! 🌐💬
+
+#MachineLearning #HateSpeechDetection #DataScience #AI #Python #TechForGood #ArtificialIntelligence #MachineLearningModel #NLP #EthicalAI #TechEthics #CyberSafety #DigitalWellbeing
+6/16/24, 5:37 PM - Kaushik: <Media omitted>
+6/16/24, 5:39 PM - Kaushik: Very very very very
+6/16/24, 6:09 PM - Kaushik: /
+6/16/24, 6:44 PM - Kaushik: null
+6/16/24, 6:44 PM - Kaushik: Tea anyone guys?
+6/16/24, 6:44 PM - Riya Apsit: no u enjoiii
+6/16/24, 6:45 PM - Kaushik: 👀😂
+6/16/24, 7:02 PM - Kaushik: Sab ho na
+6/16/24, 7:02 PM - Kaushik: @918591250210 @918856834922 @919322229318
+6/16/24, 7:02 PM - Riya Apsit: yes
+6/16/24, 7:25 PM - Kaushik: pip install roboflow inference
+6/16/24, 7:31 PM - Gayuuuuu😛: <Media omitted>
+6/16/24, 7:41 PM - Kaushik: pip install inference --no-deps
+6/16/24, 8:09 PM - Kaushik: from roboflow import Roboflow
+rf = Roboflow(api_key="pushUxcO4QD23l8yStGo")
+project = rf.workspace().project("fire-ql2gq")
+model=project.version(1).model
+
+
+
+model.predict("a.jpg", confidence=20).save("b.jpg")
+6/16/24, 8:21 PM - Riya Apsit: hua run
+6/16/24, 8:22 PM - Kaushik: # Fire Detection using YOLOv9
+
+
+
+## Overview
+
+This project utilizes YOLOv9, a state-of-the-art real-time object detection algorithm, to detect fires in images and video streams. The system aims to enhance early fire detection capabilities using deep learning.
+
+## Features
+
+- **Real-time Detection**: Achieves real-time fire detection in video streams.
+- **High Accuracy**: YOLOv9 ensures high accuracy in identifying fire instances.
+- **Versatility**: Can be deployed in various environments, including surveillance systems and IoT devices.
+- **Scalability**: Designed to handle large volumes of video data for continuous monitoring.
+
+## How It Works
+
+1. **Object Detection**: YOLOv9 detects objects in frames.
+2. **Classification**: Identifies if the detected object is a fire.
+3. **Alert System**: Alerts authorities or triggers alarms in case of fire detection.
+
+## Tech Stack
+
+- ![YOLOv9](https://img.shields.io/badge/YOLOv9-darkgreen?style=for-the-badge)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## Future Enhancements
+
+- Integration with IoT devices for real-time alerting.
+- Cloud deployment for scalable monitoring solutions.
+- Enhancements in fire classification accuracy.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request. You can also open issues for feature requests or bug reports.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+6/16/24, 8:22 PM - Kaushik: Fire Detection using YOLOv9
+6/16/24, 8:33 PM - Kaushik: 🚨 Fire Detection using YOLOv9: A New Era of Safety and Precision 🚨
+
+I'm thrilled to share my latest project where I leveraged the power of YOLOv9 to develop an advanced fire detection system. 🔥
+
+Project Highlights:
+Cutting-edge Technology: Utilized the YOLOv9 (You Only Look Once, Version 9) algorithm, known for its speed and accuracy in object detection.
+Real-time Detection: Achieved real-time fire detection with high precision, enabling faster response times in emergency situations.
+Robust Training: Trained the model on a diverse dataset with various fire scenarios to ensure reliability across different environments.
+Scalability: Designed the system to be scalable and adaptable for various applications, from residential safety to large-scale industrial monitoring.
+
+Key Achievements:
+Successfully implemented and tested the model with a detection accuracy of over 99.5%.
+Reduced false positives and enhanced detection speed, making it suitable for integration with existing fire safety systems.
+Developed a user-friendly interface for easy monitoring and alert management.
+
+Why This Matters: 
+Early fire detection is crucial in minimizing damage and saving lives. By harnessing the power of advanced AI and deep learning technologies like YOLOv9, we can significantly improve the efficiency and effectiveness of fire detection systems.
+
+I'm incredibly proud of the work done and excited about the potential impact this project can have on enhancing safety protocols across various sectors.
+
+ Looking forward to exploring more innovative applications of AI in the field of safety and beyond! 🌟
+
+Feel free to check out the project on GitHub and reach out if you're interested in learning more about this project or discussing potential collaborations.
+Link:https://lnkd.in/deEXQkZR
+
+hashtag#AI hashtag#FireDetection hashtag#YOLOv9 hashtag#MachineLearning hashtag#DeepLearning hashtag#Safety hashtag#Innovation hashtag#TechForGood
+6/16/24, 8:33 PM - Kaushik: change the content
+6/16/24, 8:35 PM - Kaushik: <Media omitted>
+6/16/24, 8:35 PM - Kaushik: <Media omitted>
+6/16/24, 8:35 PM - Kaushik: <Media omitted>
+6/16/24, 8:35 PM - Kaushik: and add b.jpg
+6/16/24, 8:36 PM - Kaushik: ye 4 image aur GitHub link
+6/16/24, 8:36 PM - Kaushik: improvise the content
+6/16/24, 8:38 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_ai-firedetection-yolov9-activity-7208120736891170816-vwh0?utm_source=share&utm_medium=member_android
+6/16/24, 8:40 PM - Kaushik: 🚨 Fire Detection using YOLOv9: Advancing Safety and Precision 🚨
+
+Excited to unveil my latest project where I utilized YOLOv9 to develop an advanced fire detection system. 🔥
+
+Project Highlights:
+
+Cutting-edge Technology: Leveraged YOLOv9, renowned for its speed and accuracy in object detection.
+Real-time Detection: Achieved real-time fire detection with exceptional precision, enhancing emergency response times.
+Robust Training: Trained on a diverse dataset covering various fire scenarios, ensuring reliability across different environments.
+Scalability: Designed for versatility, adaptable from residential safety to large-scale industrial monitoring.
+Key Achievements:
+
+High Accuracy: Successfully implemented with a detection accuracy exceeding 99.5%.
+Efficiency Boost: Reduced false positives and improved detection speed, ideal for seamless integration into existing fire safety systems.
+User-friendly Interface: Developed an intuitive interface for effortless monitoring and efficient alert management.
+Why It Matters:
+Early fire detection is paramount in minimizing damage and saving lives. Harnessing advanced AI and deep learning technologies like YOLOv9 significantly enhances the effectiveness and efficiency of fire detection systems.
+
+I'm immensely proud of this accomplishment and excited about its potential impact on safety protocols across various sectors.
+
+Explore the project on GitHub and reach out if you're interested in learning more or exploring collaboration opportunities.
+
+#AI #FireDetection #YOLOv9 #MachineLearning #DeepLearning #Safety #Innovation #TechForGood
+6/16/24, 8:56 PM - Kaushik: How was doing 2 projects today guys?
+6/16/24, 8:56 PM - Kaushik: How did it feel?
+6/16/24, 8:56 PM - Gayuuuuu😛: 😌🫶
+6/16/24, 8:56 PM - Kaushik: Excited for tomm?
+6/16/24, 9:17 PM - Akanksha Bhoir: 🥹🩵 grateful
+6/16/24, 9:18 PM - Kaushik: Cool
+6/16/24, 9:18 PM - Kaushik: Me soch raha
+6/16/24, 9:18 PM - Kaushik: 18 ya 20 tak
+6/16/24, 9:18 PM - Kaushik: We will learn more things
+6/16/24, 9:18 PM - Kaushik: And then 20th se probably
+6/16/24, 9:18 PM - Kaushik: We will start making a portfolio website individially
+6/16/24, 9:19 PM - Kaushik: Using templates or youtube
+6/16/24, 9:19 PM - Kaushik: Aur usko host karenge
+6/16/24, 9:19 PM - Kaushik: You'll know portfolio right
+6/16/24, 9:22 PM - Akanksha Bhoir: Yess
+6/16/24, 9:22 PM - Akanksha Bhoir: Chalel
+6/16/24, 9:22 PM - Akanksha Bhoir: Udya konta content asel ?
+6/16/24, 9:23 PM - Kaushik: Baghuya
+6/16/24, 9:23 PM - Gayuuuuu😛: Yupp✨
+6/16/24, 9:24 PM - Kaushik: Gg then
+6/16/24, 9:24 PM - Kaushik: ye yolo ka easy h na aur ek kare kal?
+6/16/24, 9:25 PM - Kaushik: Face detection using yolo?
+6/16/24, 9:25 PM - Gayuuuuu😛: Yolov9 kela aaj aapn so udya Face is yolov7
+6/16/24, 9:25 PM - Kaushik: Ho
+6/16/24, 9:25 PM - Kaushik: Same aahe thoda
+6/16/24, 9:25 PM - Gayuuuuu😛: Hoo chalel ✨😌
+6/16/24, 9:25 PM - Kaushik: Udya pan 2 karuga
+6/16/24, 9:25 PM - Kaushik: Karuya
+6/16/24, 9:26 PM - Kaushik: WhatsApp chat sentiment analysis
+6/16/24, 9:26 PM - Kaushik: And this
+6/16/24, 9:26 PM - Akanksha Bhoir: 👍🆗
+6/16/24, 9:26 PM - Kaushik: Gg
+6/16/24, 9:26 PM - Kaushik: Sakali ya dupari ek
+6/16/24, 9:26 PM - Kaushik: And eve ya ratri ek
+6/16/24, 9:27 PM - Gayuuuuu😛: Ye wala ?
+6/16/24, 9:27 PM - Kaushik: Kay
+6/16/24, 9:27 PM - Gayuuuuu😛: Gheuya
+6/16/24, 9:28 PM - Kaushik: 🤡ok
+6/16/24, 9:28 PM - Kaushik: <Media omitted>
+6/16/24, 9:38 PM - Akanksha Bhoir: dupari ani evening
+6/16/24, 9:38 PM - Akanksha Bhoir: 11 am , 5 pm
+6/16/24, 9:52 PM - Kaushik: Morning cha sure nai
+6/16/24, 9:52 PM - Kaushik: Dupar hoil
+6/16/24, 10:09 PM - Riya Apsit: Great 👍🥹😌
+6/16/24, 10:10 PM - Riya Apsit: Yup
+6/16/24, 10:10 PM - Kaushik: <Media omitted>
+6/16/24, 10:10 PM - Kaushik: Doge na salary😂
+6/16/24, 10:11 PM - Kaushik: @918856834922 @919322229318 @918591250210
+6/16/24, 10:12 PM - Riya Apsit: Bola
+6/16/24, 10:12 PM - Kaushik: 😂are jo pucha
+6/16/24, 10:12 PM - Gayuuuuu😛: 😂🤣🤣
+6/16/24, 10:13 PM - Kaushik: 😂
+6/17/24, 12:22 AM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_cisco-ccnav7-networking-activity-7208179528127438848-H2AL?utm_source=share&utm_medium=member_desktop
+6/17/24, 12:23 AM - Kaushik: ye faltu letter of merits bhi kaam aajayenge
+6/17/24, 10:29 AM - Kaushik: 11am everyone in?
+6/17/24, 10:32 AM - Kaushik: @919322229318 @918856834922 @918591250210
+6/17/24, 10:50 AM - Riya Apsit: no
+6/17/24, 10:52 AM - Gayuuuuu😛: Nahi
+6/17/24, 10:53 AM - Gayuuuuu😛: 2 pm?
+6/17/24, 10:54 AM - Riya Apsit: in tabhi chalega
+6/17/24, 10:56 AM - Kaushik: ok
+6/17/24, 11:10 AM - Akanksha Bhoir: 12 vaigre !?
+6/17/24, 11:27 AM - Kaushik: he doni nai aahe na
+6/17/24, 11:27 AM - Kaushik: mi tar free aahe
+6/17/24, 11:27 AM - Kaushik: portfolio website try kartoy
+6/17/24, 12:22 PM - Akanksha Bhoir: Hosting sathi ky vaprnar aahes ?
+6/17/24, 12:35 PM - Kaushik: Friend aahe tyala vicharin
+6/17/24, 12:35 PM - Kaushik: Vercel probably
+6/17/24, 1:12 PM - Kaushik: <Media omitted>
+6/17/24, 1:24 PM - Kaushik: https://faangpath.com/template/
+6/17/24, 2:12 PM - Akanksha Bhoir: Meet kdhi aahe
+6/17/24, 2:13 PM - Gayuuuuu😛: @919372551438  time?
+6/17/24, 2:13 PM - Kaushik: Maggi banavtoy
+6/17/24, 2:14 PM - Kaushik: Aaj resume banate h aur ek project? Ok
+6/17/24, 2:14 PM - Gayuuuuu😛: ho
+6/17/24, 2:17 PM - Kaushik: Will try to come by 3 3.15
+6/17/24, 2:19 PM - Akanksha Bhoir: Same here
+6/17/24, 2:19 PM - Akanksha Bhoir: Done 👍
+6/17/24, 2:28 PM - Kaushik: Mast barish ghir raha h
+6/17/24, 2:30 PM - Riya Apsit: <Media omitted>
+6/17/24, 2:30 PM - Riya Apsit: Superb weather
+6/17/24, 2:31 PM - Kaushik: Gg
+6/17/24, 3:05 PM - Kaushik: Hi
+6/17/24, 3:06 PM - Kaushik: https://meet.google.com/yvh-mktt-veu
+6/17/24, 3:06 PM - Riya Apsit: I'm not coming
+6/17/24, 3:06 PM - Kaushik: @918591250210 @918856834922
+6/17/24, 3:08 PM - Akanksha Bhoir: Yes yes
+6/17/24, 3:09 PM - Kaushik: Resume banana h pehle ya project?
+6/17/24, 3:10 PM - Akanksha Bhoir: Resume banate hain
+6/17/24, 3:10 PM - Kaushik: Ok
+6/17/24, 3:10 PM - Kaushik: Join asap
+6/17/24, 3:11 PM - Kaushik: .
+6/17/24, 3:15 PM - Kaushik: .
+6/17/24, 3:38 PM - Kaushik: \begin{rSection}{Certifications}
+
+\textbf{Cisco Academy} \hfill \\
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  IT Essentials
+     \item  Essentials in C
+    \item  Essentials in C++
+    \item  Introduction to Networks
+    \item  Networking Essentials
+    \item  Python Essentials
+    \item  Introduction to Cyber Security
+    \item Cybersecurity Essentials
+    \item  Introduction to Linux Administration
+    \item  IOT Fundamentals
+    \item Linux Essentials
+    \item Enterprise design
+    \item Switching and Routing
+ \end{itemize}
+ 
+\textbf{Oracle Academy} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Java Foundations
+     \item  DBMS Foundations
+
+ \end{itemize}
+
+ \textbf{Palo Alto} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Palo Alto Beacon Cyber Security 
+ \end{itemize}
+
+ \textbf{IIT Spoken Tutorial} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Python
+     \item  Java
+     \item Drupal
+     \item Joomla
+
+ \end{itemize}
+
+  \textbf{Red Hat Academy} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  RH124
+     \item  RH134
+
+ \end{itemize}
+
+
+  \textbf{Juniper} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Juniper Networking Virtual Internship
+ \end{itemize}
+
+  \textbf{Celonis} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Rising Star - Business
+     \item Process Mining Fundamentals
+ \end{itemize}
+
+   \textbf{Alteryx} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Micro Credential
+     \item Designer Core Fundamentals
+ \end{itemize}
+
+    \textbf{Google} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Google Android Developer 
+ \end{itemize}
+
+     \textbf{IBM} \hfill 
+
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item  Data Analysis with Python 
+ \end{itemize}
+
+\end{rSection}
+6/17/24, 3:51 PM - Kaushik: <Media omitted>
+6/17/24, 3:51 PM - Kaushik: @918856834922 @919322229318 @918591250210
+6/17/24, 3:51 PM - Kaushik: for reference
+6/17/24, 4:39 PM - Kaushik: Sorry guys
+6/17/24, 4:39 PM - Gayuuuuu😛: Ka?
+6/17/24, 4:40 PM - Gayuuuuu😛: Karun ghe ki tuza kam
+6/17/24, 4:47 PM - Kaushik: 👀
+6/17/24, 4:52 PM - Kaushik: <Media omitted>
+6/17/24, 5:08 PM - Kaushik: https://portfolio-kaushikl.vercel.app/
+6/17/24, 5:29 PM - Kaushik: https://www.linkedin.com/posts/sahixd_midjourney-chatgpt-sports-ugcPost-7207625900832530432-SnQI?utm_source=share&utm_medium=member_android
+6/17/24, 5:29 PM - Kaushik: 🤣🤣🤣
+6/17/24, 5:34 PM - Kaushik: Brb at 6
+6/17/24, 5:35 PM - Gayuuuuu😛: Okkkk
+6/17/24, 5:51 PM - Kaushik: Hi
+6/17/24, 5:53 PM - Kaushik: https://meet.google.com/wbv-znsc-yai
+6/17/24, 5:54 PM - Kaushik: <Media omitted>
+6/17/24, 5:58 PM - Gayuuuuu😛: https://youtu.be/p6FN75FVU2E?si=qZ5zlDRgmdS5_x2T
+6/17/24, 6:00 PM - Kaushik: <Media omitted>
+6/17/24, 6:44 PM - Kaushik: react
+6/17/24, 6:44 PM - Kaushik: threejs
+6/17/24, 6:44 PM - Kaushik: react fibre
+6/17/24, 6:44 PM - Kaushik: he use kel
+6/17/24, 6:46 PM - Kaushik: https://www.canva.com/design/DAGIZRWeHU0/amizKW0-e8G_8aiqoPxR3Q/edit?utm_content=DAGIZRWeHU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+6/17/24, 6:59 PM - Akanksha Bhoir: If you are working on something that you really care about, you don't have to be pushed.
+6/17/24, 7:00 PM - Akanksha Bhoir: Don't be afraid to fail. be afraid not to try
+6/17/24, 7:02 PM - Kaushik: <Media omitted>
+6/17/24, 7:02 PM - Riya Apsit: Mera bhi bna de yrr
+6/17/24, 7:03 PM - Kaushik: Meet pe aake karna hota b
+6/17/24, 7:04 PM - Riya Apsit: Ok
+6/17/24, 7:04 PM - Riya Apsit: Meet join karna hi tha par ma bahar hu so nhi ho sakta
+6/17/24, 7:06 PM - Kaushik: noob
+6/17/24, 7:06 PM - Riya Apsit: Hatt
+6/17/24, 7:11 PM - Kaushik: from roboflow import Roboflow
+rf = Roboflow(api_key="API_KEY")
+project = rf.workspace().project("MODEL_ENDPOINT")
+model = project.version(VERSION).model
+
+# infer on a local image
+print(model.predict("your_image.jpg", confidence=40, overlap=30).json())
+
+# visualize your prediction
+# model.predict("your_image.jpg", confidence=40, overlap=30).save("prediction.jpg")
+
+# infer on an image hosted elsewhere
+# print(model.predict("URL_OF_YOUR_IMAGE", hosted=True, confidence=40, overlap=30).json())
+6/17/24, 7:19 PM - Kaushik: <Media omitted>
+6/17/24, 7:21 PM - Kaushik: from roboflow import Roboflow
+rf = Roboflow(api_key="pushUxcO4QD23l8yStGo")
+project = rf.workspace().project("face-detection-oushq")
+model = project.version(1).model
+
+# infer on a local image
+print(model.predict("1.jpg", confidence=40).json())
+
+# visualize your prediction
+model.predict("1.jpg", confidence=40).save("2.jpg")
+
+# infer on an image hosted elsewhere
+# print(model.predict("URL_OF_YOUR_IMAGE", hosted=True, confidence=40, overlap=30).json())
+6/17/24, 7:30 PM - Kaushik: .
+6/17/24, 7:31 PM - Kaushik: <Media omitted>
+6/17/24, 7:31 PM - Kaushik: <Media omitted>
+6/17/24, 7:31 PM - Kaushik: <Media omitted>
+6/17/24, 7:37 PM - Kaushik: # Face Detection using YOLOv7
+
+## Overview
+
+This project leverages YOLOv7, a cutting-edge real-time object detection algorithm, to detect faces in images and video streams. The system is designed to enhance facial recognition and detection capabilities using deep learning techniques.
+
+## Features
+
+- **Real-time Detection**: Achieves real-time face detection in video streams.
+- **High Accuracy**: YOLOv7 ensures high accuracy in identifying faces.
+- **Versatility**: Can be deployed in various environments, including security systems and smart devices.
+- **Scalability**: Designed to handle large volumes of video data for continuous monitoring.
+
+## How It Works
+
+1. **Object Detection**: YOLOv7 detects faces in frames.
+2. **Classification**: Identifies and classifies detected faces.
+3. **Alert System**: Triggers alerts or actions based on detection.
+
+## Tech Stack
+
+- ![YOLOv7](https://img.shields.io/badge/YOLOv7-darkgreen?style=for-the-badge)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## Future Enhancements
+
+- Integration with IoT devices for real-time alerting.
+- Cloud deployment for scalable monitoring solutions.
+- Enhancements in face detection and classification accuracy.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request. You can also open issues for feature requests or bug reports.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+6/17/24, 7:38 PM - Kaushik: Absolutely! Here’s a LinkedIn post without the tech stack and with an area for mentioning the project link:
+
+🚀 Excited to Share My Latest Project: Face Detection using YOLOv7! 🚀
+
+I'm thrilled to introduce my latest project where I utilized YOLOv7, a state-of-the-art real-time object detection algorithm, to develop an advanced face detection system. This project aims to enhance facial recognition and detection capabilities using deep learning techniques.
+
+🔍 Project Highlights:
+
+Real-time Detection: Achieves real-time face detection in video streams.
+High Accuracy: YOLOv7 ensures high accuracy in identifying faces.
+Versatility: Can be deployed in various environments, including security systems and smart devices.
+Scalability: Designed to handle large volumes of video data for continuous monitoring.
+🎯 How It Works:
+
+Object Detection: YOLOv7 detects faces in frames.
+Classification: Identifies and classifies detected faces.
+Alert System: Triggers alerts or actions based on detection.
+💡 Future Enhancements:
+
+Integration with IoT devices for real-time alerting.
+Cloud deployment for scalable monitoring solutions.
+Enhancements in face detection and classification accuracy.
+I'm incredibly proud of the work done and excited about the potential impact this project can have on enhancing security and monitoring systems across various sectors.
+
+🔗 Check out the project here: [Project Link]
+
+Feel free to reach out if you're interested in learning more about this project or discussing potential collaborations.
+
+#AI #FaceDetection #YOLOv7 #MachineLearning #DeepLearning #Security #Innovation #TechForGood
+6/17/24, 7:41 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_ai-facedetection-yolov7-activity-7208471175650254850-qBCw?utm_source=share&utm_medium=member_desktop
+6/17/24, 7:51 PM - Kaushik: \vspace{1cm}
+6/17/24, 7:55 PM - Kaushik: So guys how was  day 2 of finding who the avengers are🤡
+6/17/24, 7:55 PM - Kaushik: @918856834922 @918591250210
+6/17/24, 7:56 PM - Akanksha Bhoir: kaushik avenger ahe
+6/17/24, 7:56 PM - Akanksha Bhoir: iron man
+6/17/24, 7:56 PM - Kaushik: <Media omitted>
+6/17/24, 7:57 PM - Akanksha Bhoir: 🩵👏🏻
+6/17/24, 7:57 PM - Kaushik: 😌Kal jarvis banaye?
+6/17/24, 7:57 PM - Akanksha Bhoir: chalega
+6/17/24, 7:57 PM - Kaushik: Ok gg
+6/17/24, 7:57 PM - Akanksha Bhoir: lekin mereko captain america pasand hain
+6/17/24, 7:57 PM - Kaushik: 👀😂jo chahiye lelo
+6/17/24, 7:57 PM - Kaushik: Vo jab AI banayega uska bhi banayenge
+6/17/24, 7:58 PM - Kaushik: Tab tak jarvis se kaam chalak
+6/17/24, 7:58 PM - Kaushik: Chalao
+6/17/24, 7:58 PM - Akanksha Bhoir: 🥲okay
+6/17/24, 7:58 PM - Akanksha Bhoir: <Media omitted>
+6/17/24, 7:59 PM - Kaushik: <Media omitted>
+6/17/24, 7:59 PM - Kaushik: 👀 shield hi fekega vo
+6/17/24, 7:59 PM - Kaushik: I think no one's better than thor😂
+6/17/24, 8:02 PM - Akanksha Bhoir: Amhi khush ahot cris Evans sobat
+6/17/24, 8:02 PM - Kaushik: <Media omitted>
+6/17/24, 8:02 PM - Kaushik: <Media omitted>
+6/17/24, 8:02 PM - Kaushik: Cyber ka bhi seekhne me koi interested?
+6/17/24, 8:07 PM - Akanksha Bhoir: Mi mi mi
+6/17/24, 8:08 PM - Akanksha Bhoir: Mereko sab sikhao
+6/17/24, 8:09 PM - Akanksha Bhoir: <Media omitted>
+6/17/24, 8:09 PM - Kaushik: <Media omitted>
+6/17/24, 8:09 PM - Kaushik: Ok
+6/17/24, 8:09 PM - Gayuuuuu😛: Yehhh 😂
+6/17/24, 8:09 PM - Akanksha Bhoir: <Media omitted>
+6/17/24, 8:10 PM - Gayuuuuu😛: Sikhao sikhao hum bhi ready hai 😌😂
+6/17/24, 8:10 PM - Kaushik: <Media omitted>
+6/17/24, 8:10 PM - Gayuuuuu😛: Nahi aap ho sath toh majdoori khallas😂😂🤣
+6/17/24, 8:11 PM - Akanksha Bhoir: Kaushik ❌, aadarniy mahoday ✅
+6/17/24, 8:12 PM - Gayuuuuu😛: Yess yess right ✨
+6/17/24, 8:13 PM - Kaushik: <Media omitted>
+6/17/24, 8:15 PM - Gayuuuuu😛: Maska lavtoy 😂🤣
+6/17/24, 8:19 PM - Kaushik: <Media omitted>
+6/17/24, 8:20 PM - Riya Apsit: Yes
+6/17/24, 8:21 PM - Kaushik: null
+6/17/24, 8:21 PM - Kaushik: 🤡🤡
+6/17/24, 8:24 PM - Gayuuuuu😛: Wahh...
+6/17/24, 8:24 PM - Gayuuuuu😛: Enjoy
+6/17/24, 8:26 PM - Kaushik: 👀😂
+6/17/24, 8:47 PM - Kaushik: <Media omitted>
+6/17/24, 8:47 PM - Kaushik: 🤡👀😂
+6/17/24, 8:58 PM - You added Siddhi YP🤪
+6/17/24, 8:58 PM - Kaushik: Aur ek member
+6/17/24, 8:58 PM - Siddhi YP🤪: Thankss
+6/17/24, 8:59 PM - Kaushik: Swagat karo @918591250210 @918856834922 @919322229318
+6/17/24, 9:27 PM - Riya Apsit: welcome bruhhh @919921103330 😌
+6/17/24, 9:28 PM - Gayuuuuu😛: He'llo 👋@919921103330
+6/17/24, 9:39 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_cisco-networkingacademy-enterprisedesign-activity-7208500801730756608-ZNT4?utm_source=share&utm_medium=member_android
+6/17/24, 9:39 PM - Kaushik: 🧙🏻‍♂️👀
+6/17/24, 10:09 PM - Siddhi YP🤪: Thank broo🤗 <This message was edited>
+6/17/24, 10:09 PM - Siddhi YP🤪: Thanks bro🤗
+6/17/24, 10:10 PM - Kaushik: <Media omitted>
+6/17/24, 11:29 PM - Akanksha Bhoir: Udya meet time ?
+6/17/24, 11:29 PM - Kaushik: Baghu aaj sarkha lavkar uthlo tar 11 la pan chalel
+6/17/24, 11:29 PM - Kaushik: <Media omitted>
+6/17/24, 11:29 PM - Kaushik: Nai tar dupari
+6/17/24, 11:30 PM - Kaushik: Also depends on these @919322229318 @919921103330 @918856834922  niggas
+6/17/24, 11:30 PM - Riya Apsit: Dupar ma nhi re
+6/17/24, 11:30 PM - Riya Apsit: 11 and 5
+6/17/24, 11:30 PM - Kaushik: <Media omitted>
+6/17/24, 11:31 PM - Riya Apsit: <Media omitted>
+6/17/24, 11:31 PM - Riya Apsit: <Media omitted>
+6/17/24, 11:32 PM - Kaushik: POLL:
+Tomm meet 1
+OPTION: 11am (3 votes)
+OPTION: 2pm (1 vote)
+
+6/17/24, 11:32 PM - Kaushik: You deleted this message
+6/17/24, 11:32 PM - Kaushik: POLL:
+Meet 2
+OPTION: 5pm (4 votes)
+OPTION: 7pm (0 votes)
+
+6/17/24, 11:32 PM - Kaushik: @919921103330 @919322229318 @918856834922 @918591250210
+6/18/24, 9:53 AM - Akanksha Bhoir: 11 ? La ahe ki nahi mag
+6/18/24, 10:04 AM - Kaushik: Aahe
+6/18/24, 10:04 AM - Kaushik: Uthlo mi😂
+6/18/24, 10:04 AM - Kaushik: Parat zhopnar hoto aata
+6/18/24, 10:34 AM - Kaushik: https://forms.gle/PpdGDLKffYTQ5X646
+6/18/24, 10:34 AM - Kaushik: Ye linkedin pe mila
+6/18/24, 10:34 AM - Kaushik: Mentorness ka internship
+6/18/24, 10:34 AM - Kaushik: Remote and free of cost
+6/18/24, 10:35 AM - Kaushik: Offer letter mil jayega
+6/18/24, 10:47 AM - Siddhi YP🤪: 2 laa gheuyat meet ?
+6/18/24, 10:53 AM - Kaushik: 🥲
+6/18/24, 10:56 AM - Riya Apsit: online ki offline
+6/18/24, 10:56 AM - Kaushik: Remote bolana
+6/18/24, 10:56 AM - Riya Apsit: karte h
+6/18/24, 10:56 AM - Kaushik: Me fill kiya
+6/18/24, 10:57 AM - Riya Apsit: okays
+6/18/24, 10:57 AM - Riya Apsit: mereko resume bnana h uske baad fill karti hu
+6/18/24, 10:57 AM - Kaushik: Hmm
+6/18/24, 10:58 AM - Kaushik: Mene aur aka ne banaya tha kal
+6/18/24, 10:58 AM - Riya Apsit: haaa deekha
+6/18/24, 10:59 AM - Kaushik: <Media omitted>
+6/18/24, 11:00 AM - Kaushik: Batao😂
+6/18/24, 11:01 AM - Riya Apsit: bhai linkedin pe abhi se aagya
+6/18/24, 11:01 AM - Akanksha Bhoir: Dedicated student
+6/18/24, 11:01 AM - Kaushik: Mostly aajate h
+6/18/24, 11:01 AM - Kaushik: Hum log hi late h
+6/18/24, 11:01 AM - Kaushik: 🥲
+6/18/24, 11:01 AM - Riya Apsit: apne ko deekho
+6/18/24, 11:02 AM - Riya Apsit: yes
+6/18/24, 11:02 AM - Akanksha Bhoir added +91 85914 63765
+6/18/24, 11:03 AM - Akanksha Bhoir: Meet ahe ka ata
+6/18/24, 11:03 AM - Akanksha Bhoir: 💀ki postpone keli ahe
+6/18/24, 11:03 AM - Kaushik: 🥲postpone postpone
+6/18/24, 11:03 AM - Kaushik: 11.30
+6/18/24, 11:03 AM - Akanksha Bhoir: Okay
+6/18/24, 11:03 AM - Akanksha Bhoir: Ye time fix rakho
+6/18/24, 11:03 AM - Akanksha Bhoir: 💀
+6/18/24, 11:04 AM - Kaushik: 12.30 paryant karu mag mummy chi tabiyat theek nai, market jaun yein mg 2 la continue karu
+6/18/24, 11:04 AM - Riya Apsit: 2 la thev
+6/18/24, 11:04 AM - Kaushik: Lol
+6/18/24, 11:04 AM - Kaushik: @918591250210  help riya to make that resume
+6/18/24, 11:04 AM - Kaushik: Aapan te code vaprun banav la na
+6/18/24, 11:04 AM - Kaushik: .
+6/18/24, 11:04 AM - Kaushik: .
+6/18/24, 11:05 AM - Riya Apsit: haaa @918591250210 yrr plss
+6/18/24, 11:05 AM - Riya Apsit: free hogi toh karde
+6/18/24, 11:05 AM - Akanksha Bhoir: Are ha me meet bana rahi hu wait
+6/18/24, 11:06 AM - Kaushik: 11.30 karna h ya direct 2 baje?
+6/18/24, 11:06 AM - Riya Apsit: 2
+6/18/24, 11:06 AM - Kaushik: POLL:
+Meet 1
+OPTION: 11.30 (2 votes)
+OPTION: 2 (3 votes)
+
+6/18/24, 11:06 AM - Akanksha Bhoir: 11:30
+6/18/24, 11:06 AM - Akanksha Bhoir: 🥹
+6/18/24, 11:06 AM - Kaushik: Majority wins
+6/18/24, 11:06 AM - Kaushik: Hein @919322229318
+6/18/24, 11:07 AM - Kaushik: Tune 2 bola ab 11.30 pe vote dala
+6/18/24, 11:07 AM - Kaushik: 🥲
+6/18/24, 11:07 AM - Riya Apsit: mtlb tujhe bhi 2 ko chhaiye
+6/18/24, 11:07 AM - Kaushik: No
+6/18/24, 11:07 AM - Kaushik: .
+6/18/24, 11:07 AM - Kaushik: Me ye bola
+6/18/24, 11:08 AM - Riya Apsit: toh karna  chalegaa
+6/18/24, 11:08 AM - Kaushik: Ok
+6/18/24, 11:09 AM - Kaushik: Us linkedin wale ko IT department ka boast kar diya😂 keh raha ab toh apsit ka IT dep join karega
+6/18/24, 11:09 AM - Kaushik: Aur ek zindagi barbad karega
+6/18/24, 11:09 AM - Riya Apsit: aaa ase kyu kiya
+6/18/24, 11:09 AM - Kaushik: Hum akele kyu sahe😂
+6/18/24, 11:09 AM - Riya Apsit: waah
+6/18/24, 11:10 AM - Kaushik: Par apna clg somewhat best h bakiyo se👍 sirf events ache nai karata
+6/18/24, 11:17 AM - Siddhi YP🤪: Exactly 😂
+6/18/24, 11:17 AM - Siddhi YP🤪: Meet time then ?
+6/18/24, 11:17 AM - Kaushik: 11.30
+6/18/24, 11:17 AM - Siddhi YP🤪: 2 fix huaa nn
+6/18/24, 11:17 AM - Kaushik: No
+6/18/24, 11:23 AM - Kaushik: <Media omitted>
+6/18/24, 11:25 AM - Kaushik: <Media omitted>
+6/18/24, 11:27 AM - Gayuuuuu😛: 😂😂🤣
+6/18/24, 11:30 AM - Akanksha Bhoir: Meeeeeeettttttttt
+6/18/24, 11:30 AM - Kaushik: Wait 2 mins
+6/18/24, 11:30 AM - Kaushik: Havin tea
+6/18/24, 11:33 AM - Kaushik: https://meet.google.com/cxf-purx-oai
+6/18/24, 11:33 AM - Akanksha Bhoir: Otte
+6/18/24, 11:34 AM - Akanksha Bhoir: On kelyver sang
+6/18/24, 11:34 AM - Kaushik: hein
+6/18/24, 11:34 AM - Kaushik: meet on aahe join karo
+6/18/24, 11:34 AM - Kaushik: @918856834922 @919322229318 @918591250210 @919921103330 @918591463765
+6/18/24, 11:36 AM - You added Pritam
+6/18/24, 11:37 AM - Kaushik: 🥲
+6/18/24, 11:37 AM - Kaushik: Sab gayab kyu h ab
+6/18/24, 11:38 AM - Akanksha Bhoir: Meet ver ahe na
+6/18/24, 11:38 AM - Kaushik: <Media omitted>
+6/18/24, 11:38 AM - Akanksha Bhoir: Riya la sangtey
+6/18/24, 11:39 AM - Siddhi YP🤪: 5 min mein aatii hun
+6/18/24, 11:39 AM - Akanksha Bhoir: Me pan
+6/18/24, 11:46 AM - Kaushik: Saath me chalu karo
+6/18/24, 11:48 AM - Kaushik: <Media omitted>
+6/18/24, 11:49 AM - Kaushik: pip install pyttx3
+6/18/24, 11:53 AM - Akanksha Bhoir: version kas change kel
+6/18/24, 11:54 AM - Siddhi YP🤪: Guys idk about it anything..plz tell me too
+6/18/24, 11:54 AM - Kaushik: Kuthla  version
+6/18/24, 11:54 AM - Kaushik: Mic on karun bola
+6/18/24, 11:54 AM - Riya Apsit: version ka error arha h
+6/18/24, 11:56 AM - Riya Apsit: <Media omitted>
+6/18/24, 11:56 AM - Riya Apsit: okayss
+6/18/24, 11:57 AM - Kaushik: Join karaycha asta lavkar
+6/18/24, 11:57 AM - Riya Apsit: input wala line copy karke dena
+6/18/24, 11:57 AM - Kaushik: import pyttsx3
+
+data = input("enter text which you want ot convert to speech:\n")
+
+engine = pyttsx3.init()
+engine.say(data)
+engine.runAndWait()
+6/18/24, 11:58 AM - Kaushik: import pyttsx3
+
+
+engine = pyttsx3.init()
+
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+speak("Hello world i am noob")
+6/18/24, 12:06 PM - Kaushik: import pyttsx3
+import datetime
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+speak("Hello world, I am noob")
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak(Time)
+
+time()
+6/18/24, 12:07 PM - Riya Apsit: run kese hoga ye
+6/18/24, 12:07 PM - Kaushik: python filename.py?
+6/18/24, 12:07 PM - Riya Apsit: kiya mne nhi horha h
+6/18/24, 12:07 PM - Kaushik: Share screen
+6/18/24, 12:10 PM - Kaushik: .
+6/18/24, 12:17 PM - Kaushik: import pyttsx3
+import datetime
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+speak("Hello world, I am noob")
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak(Time)
+
+time()
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month= int(datetime.datetime.now().month)
+    date = int(datetime.datetime.now().day)
+    speak(date)
+    speak(month)
+    speak(year)
+
+date()
+6/18/24, 12:22 PM - Kaushik: import pyttsx3
+import datetime
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak(Time)
+
+
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month= int(datetime.datetime.now().month)
+    date = int(datetime.datetime.now().day)
+    speak(date)
+    speak(month)
+    speak(year)
+
+
+
+def wishme():
+    speak("Welcome back sir")
+    speak("The current time is")
+    time()
+    speak("the current date is ")
+    date()
+    speak("Jarvis at your service, Aagya kariya aaka")
+
+wishme()
+6/18/24, 12:29 PM - Kaushik: import pyttsx3
+import datetime
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak(Time)
+
+
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month= int(datetime.datetime.now().month)
+    date = int(datetime.datetime.now().day)
+    speak(date)
+    speak(month)
+    speak(year)
+
+
+
+def wishme():
+    speak("Welcome back sir")
+    speak("The current time is")
+    time()
+    speak("the current date is ")
+    date()
+    hour = datetime.datetime.now().hour
+    if hour >=6 and hour <12:
+        speak("Good morning sir")
+    elif hour >=12 and  hour <18:
+        speak("Good afternoon sir")
+    elif hour >=18 and hour <24:
+        speak("Good Evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, Aagya kariya aaka")
+
+wishme()
+6/18/24, 12:29 PM - Kaushik: Iske aage ka continues at 2 pm
+6/18/24, 12:29 PM - Kaushik: I gotta go now
+6/18/24, 12:30 PM - Riya Apsit: okayss
+6/18/24, 1:13 PM - Kaushik: <Media omitted>
+6/18/24, 1:32 PM - Kaushik: You deleted this message
+6/18/24, 1:33 PM - Pritam: Banner pe Jo text hai uska readability bahut kharab h
+6/18/24, 1:33 PM - You pinned a message
+6/18/24, 1:33 PM - Pritam: Thora bold kardo
+6/18/24, 1:33 PM - Kaushik: Bold me ekdum weird dikh ta h
+6/18/24, 1:33 PM - Pritam: Aise toh dikh bhi nahi rha
+6/18/24, 1:33 PM - Kaushik: Hmm dekhta hu
+6/18/24, 1:35 PM - Gayuuuuu😛: Congratulations 🎉
+6/18/24, 1:35 PM - Kaushik: Chal party de
+6/18/24, 1:35 PM - Gayuuuuu😛: Mi deu😂
+6/18/24, 1:35 PM - Pritam: Photo bhi lagao, pata toh chale kiske 150 connection hue h😌
+6/18/24, 1:35 PM - Gayuuuuu😛: Right 💯
+6/18/24, 1:36 PM - Kaushik: 🥲🤡
+6/18/24, 1:36 PM - Kaushik: Lagaya jayega sabar rakho
+6/18/24, 1:36 PM - Kaushik: 200 connections pe face reveal🤡😂😂😂😂😂
+6/18/24, 1:37 PM - Pritam: This message was deleted
+6/18/24, 1:37 PM - Kaushik: 🤡noi
+6/18/24, 1:37 PM - Kaushik: No nicknames on professional sites😂😂
+6/18/24, 1:38 PM - Pritam: Ok🫡
+6/18/24, 1:39 PM - Gayuuuuu😛: Ab kya hi bole🙂
+6/18/24, 1:44 PM - Kaushik: <Media omitted>
+6/18/24, 2:07 PM - Kaushik: https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025
+6/18/24, 2:07 PM - Kaushik: Google internship in US
+6/18/24, 2:08 PM - Kaushik: Resume daalna h and agar lag gaya toh google sponsor karega
+6/18/24, 2:11 PM - Pritam: By chance resume select hua  toh sidha call aata h recruiter ka
+6/18/24, 2:12 PM - Pritam: Telephonic interview
+6/18/24, 2:12 PM - Kaushik: Try karenge
+6/18/24, 2:13 PM - Kaushik: atleast google h vo <This message was edited>
+6/18/24, 2:13 PM - Pritam: DSA kar liya?
+6/18/24, 2:13 PM - Kaushik: 🤡no
+6/18/24, 2:14 PM - Pritam: Telephonic crack karke kya fayda technical mai hi reject hona hai jab🥲 <This message was edited>
+6/18/24, 2:14 PM - Kaushik: Try try but dont cry
+6/18/24, 2:14 PM - Kaushik: 😂
+6/18/24, 2:14 PM - Riya Apsit: meet ka link de
+6/18/24, 2:15 PM - Kaushik: Meet postponed to 2.30
+6/18/24, 2:15 PM - Kaushik: 🥲lunch baki h
+6/18/24, 2:15 PM - Riya Apsit: 4 bajr rakhle
+6/18/24, 2:15 PM - Gayuuuuu😛: Nahi
+6/18/24, 2:15 PM - Pritam: Atleast binary tree toh reverse karna Sikh le😂
+6/18/24, 2:16 PM - Kaushik: No
+6/18/24, 2:16 PM - Kaushik: Utna theek h
+6/18/24, 2:16 PM - Pritam: Mai bhi DSA kar rha hu join karle sath mai try krenge
+6/18/24, 2:16 PM - Pritam: Javascript se
+6/18/24, 2:19 PM - Kaushik: Dekhta hu
+6/18/24, 2:30 PM - Kaushik: https://meet.google.com/jeg-vauu-cyf
+6/18/24, 2:31 PM - Kaushik: @918856834922 @919322229318 @919921103330
+6/18/24, 2:31 PM - Kaushik: @918591250210  your friend would join?
+6/18/24, 2:34 PM - Riya Apsit: zoom karna na
+6/18/24, 2:43 PM - Kaushik: import speech_recognition as sr
+6/18/24, 2:44 PM - Kaushik: def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening")
+        r.pause_threshold = 1
+        audio= r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(query)
+    except Exception as e:
+        print(e)
+        speak("Say that again please")
+        return "None"
+    return query
+
+takeCommand()
+6/18/24, 2:47 PM - Riya Apsit: pip install Pyaudio kar sirf hojayega
+6/18/24, 2:57 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month= int(datetime.datetime.now().month)
+    date = int(datetime.datetime.now().day)
+    speak("the current date is ")
+    speak(date)
+    speak(month)
+    speak(year)
+
+
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >=6 and hour <12:
+        speak("Good morning sir")
+    elif hour >=12 and  hour <18:
+        speak("Good afternoon sir")
+    elif hour >=18 and hour <24:
+        speak("Good Evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening")
+        r.pause_threshold = 1
+        audio= r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(query)
+    except Exception as e:
+        print(e)
+        speak("Say that again please")
+        return "None"
+    return query
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+6/18/24, 3:00 PM - Kaushik: .
+6/18/24, 3:02 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month= int(datetime.datetime.now().month)
+    date = int(datetime.datetime.now().day)
+    speak("the current date is ")
+    speak(date)
+    speak(month)
+    speak(year)
+
+
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >=6 and hour <12:
+        speak("Good morning sir")
+    elif hour >=12 and  hour <18:
+        speak("Good afternoon sir")
+    elif hour >=18 and hour <24:
+        speak("Good Evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening")
+        r.pause_threshold = 1
+        audio= r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(query)
+    except Exception as e:
+        print(e)
+        speak("Say that again please")
+        return "None"
+    return query
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+6/18/24, 3:20 PM - Akanksha Bhoir: elif 'wikipedia' in query:
+            speak("Searching...")
+            query = query.replace("wikipedia","")
+            result = wikipedia.summary(query, sentences=2)
+            print(result)
+            speak(result)
+6/18/24, 3:23 PM - Kaushik: <Media omitted>
+6/18/24, 3:24 PM - Riya Apsit: same mereko bhi arha h
+6/18/24, 3:24 PM - Kaushik: Kya
+6/18/24, 3:24 PM - Riya Apsit: error yrr
+6/18/24, 3:25 PM - Kaushik: Mic on karke bol
+6/18/24, 3:25 PM - Pritam: Camel case allowed hai kya python m
+6/18/24, 3:25 PM - Riya Apsit: wahi toh nhi kar sakti
+6/18/24, 3:25 PM - Kaushik: Ha
+6/18/24, 3:25 PM - Kaushik: Kyu
+6/18/24, 3:25 PM - Riya Apsit: dad so rhe
+6/18/24, 3:26 PM - Kaushik: Go in other room
+6/18/24, 3:26 PM - Riya Apsit: 2 hi toh room h no network in another room
+6/18/24, 3:27 PM - Riya Apsit: jiska hua h run karke woh pura code bhejo plss
+6/18/24, 3:27 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 3:32 PM - Kaushik: import smtplib
+6/18/24, 3:32 PM - Pritam: Hindi bolo
+6/18/24, 3:32 PM - Pritam: <Media omitted>
+6/18/24, 3:33 PM - Kaushik: 🤣🤣🤣🤣
+6/18/24, 3:34 PM - Kaushik: Nai bolega
+6/18/24, 3:36 PM - Pritam: <Media omitted>
+6/18/24, 3:52 PM - Riya Apsit: @919372551438 code bhejna pura
+6/18/24, 3:55 PM - Gayuuuuu😛: <Media omitted>
+6/18/24, 3:57 PM - Kaushik: Kay
+6/18/24, 3:58 PM - Gayuuuuu😛: This message was deleted
+6/18/24, 3:59 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+import smtplib
+import subprocess
+import webbrowser as wb
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+def sendEmail(to, content):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login('21104016.kaushik.prabhunerurkar@gmail.com', 'password')
+    server.sendmail('21104016.kaushik.prabhunerurkar@gmail.com', to, content)
+    server.close()
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'send email' in query:
+            try:
+                speak("What should I say?")
+                content = takeCommand()
+                to = 'kaushik020603@gmail.com'
+                sendEmail(to, content)
+                speak("Email has been sent")
+            except Exception as e:
+                print(e)
+                speak("Unable to send the email")
+        elif 'search in chrome' in query:
+            speak("What should I search?")
+            search = takeCommand().lower()
+            url = f"https://{search}.com"
+            try:
+                chromepath = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+                subprocess.Popen([chromepath, url])
+            except Exception as e:
+                print(f"Failed to open Chrome: {e}")
+                speak("Unable to open Chrome, opening with default browser.")
+                wb.open_new_tab(url)
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 3:59 PM - Gayuuuuu😛: <Media omitted>
+6/18/24, 4:20 PM - Kaushik: 🤡🤡🤡
+6/18/24, 4:20 PM - Pritam: Ho gya logout
+6/18/24, 4:20 PM - Kaushik: Log out ke  black screen pe aagaya
+6/18/24, 4:21 PM - Pritam: Badhiya hua
+6/18/24, 4:21 PM - Kaushik: Toh guys AI is still fantabulous
+6/18/24, 4:21 PM - Riya Apsit: Ya
+6/18/24, 4:21 PM - Kaushik: Me restart kar ke aaya
+6/18/24, 4:21 PM - Kaushik: Bas
+6/18/24, 4:22 PM - Riya Apsit: Okayss
+6/18/24, 4:22 PM - Kaushik: Itna casualty hua
+6/18/24, 4:22 PM - Pritam: AI?? If else statement bol
+6/18/24, 4:22 PM - Kaushik: 🤣🤣
+6/18/24, 4:22 PM - Kaushik: 🤡that's the magic behind it
+6/18/24, 4:22 PM - Pritam: Bot
+6/18/24, 4:22 PM - Kaushik: 😈🤫
+6/18/24, 4:39 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+import smtplib
+import subprocess
+import webbrowser as wb
+import os
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+def sendEmail(to, content):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login('21104016.kaushik.prabhunerurkar@gmail.com', 'password')
+    server.sendmail('21104016.kaushik.prabhunerurkar@gmail.com', to, content)
+    server.close()
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'send email' in query:
+            try:
+                speak("What should I say?")
+                content = takeCommand()
+                to = 'kaushik020603@gmail.com'
+                sendEmail(to, content)
+                speak("Email has been sent")
+            except Exception as e:
+                print(e)
+                speak("Unable to send the email")
+        elif 'search in chrome' in query:
+            speak("What should I search?")
+            search = takeCommand().lower()
+            url = f"https://{search}.com"
+            try:
+                chromepath = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+                subprocess.Popen([chromepath, url])
+            except Exception as e:
+                print(f"Failed to open Chrome: {e}")
+                speak("Unable to open Chrome, opening with default browser.")
+                wb.open_new_tab(url)
+        elif 'logout' in query:
+            os.system("shutdown -l")
+        elif 'shutdown' in query:
+            os.system("shutdown -/s /t 1")
+        elif 'restart' in query:
+            os.system("shutdown /r /t /1")
+        elif 'play songs' in query:
+            song_dir = r"C:\Users\kaushik\Downloads\Music"
+            songs = os.listdir(song_dir)
+            os.startfile(os.path.join(song_dir, songs[0]))
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 4:39 PM - Kaushik: <Media omitted>
+6/18/24, 4:49 PM - Kaushik: @918591250210
+6/18/24, 4:51 PM - Kaushik: Bhuppp hogayi ye toh
+6/18/24, 5:12 PM - Riya Apsit: kitna baaki h bro?
+6/18/24, 5:13 PM - Kaushik: Aur 2 feature
+6/18/24, 5:15 PM - Riya Apsit: okayss
+6/18/24, 5:19 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+import smtplib
+import subprocess
+import webbrowser as wb
+import os
+import pyautogui
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+def sendEmail(to, content):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login('21104016.kaushik.prabhunerurkar@gmail.com', 'password')
+    server.sendmail('21104016.kaushik.prabhunerurkar@gmail.com', to, content)
+    server.close()
+
+def screenshot():
+    img = pyautogui.screenshot()
+    img.save(r"C:\Users\kaushik\Downloads\Music\ss.png")
+
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'send email' in query:
+            try:
+                speak("What should I say?")
+                content = takeCommand()
+                to = 'kaushik020603@gmail.com'
+                sendEmail(to, content)
+                speak("Email has been sent")
+            except Exception as e:
+                print(e)
+                speak("Unable to send the email")
+        elif 'search in chrome' in query:
+            speak("What should I search?")
+            search = takeCommand().lower()
+            url = f"https://{search}.com"
+            try:
+                chromepath = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+                subprocess.Popen([chromepath, url])
+            except Exception as e:
+                print(f"Failed to open Chrome: {e}")
+                speak("Unable to open Chrome, opening with default browser.")
+                wb.open_new_tab(url)
+        elif 'logout' in query:
+            os.system("shutdown -l")
+        elif 'shutdown' in query:
+            os.system("shutdown -/s /t 1")
+        elif 'restart' in query:
+            os.system("shutdown /r /t /1")
+        elif 'play songs' in query:
+            song_dir = r"C:\Users\kaushik\Downloads\Music"
+            songs = os.listdir(song_dir)
+            os.startfile(os.path.join(song_dir, songs[0]))
+        elif 'remember that' in query:
+            speak("What should i remember")
+            data = takeCommand()
+            speak("You said me to remember this data" + data)
+            remember = open('data.txt','w')
+            remember.write(data)
+            remember.close()
+        elif 'do you remember' in query:
+            remember = open('data.txt','r')
+            speak("You said me to remember this data" + remember.read())
+        elif "screenshot" in query:
+            speak("Taking screenshot")
+            screenshot()
+            speak("Screenshot Saved")
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 5:38 PM - Kaushik: what did the java code said to c code, you have no class
+6/18/24, 5:42 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+import smtplib
+import subprocess
+import webbrowser as wb
+import os
+import pyautogui
+import psutil
+import pyjokes
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+def sendEmail(to, content):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login('21104016.kaushik.prabhunerurkar@gmail.com', 'password')
+    server.sendmail('21104016.kaushik.prabhunerurkar@gmail.com', to, content)
+    server.close()
+
+def screenshot():
+    img = pyautogui.screenshot()
+    img.save(r"C:\Users\kaushik\Downloads\Music\ss.png")
+
+def cpu():
+    usage = str(psutil.cpu_percent())
+    speak("CPU is at " + usage)
+    battery= psutil.sensors_battery()
+    speak("Battery is at " )
+    speak( battery.percent)
+
+def jokes():
+    speak(pyjokes.get_joke())
+
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'send email' in query:
+            try:
+                speak("What should I say?")
+                content = takeCommand()
+                to = 'kaushik020603@gmail.com'
+                sendEmail(to, content)
+                speak("Email has been sent")
+            except Exception as e:
+                print(e)
+                speak("Unable to send the email")
+        elif 'search in chrome' in query:
+            speak("What should I search?")
+            search = takeCommand().lower()
+            url = f"https://{search}.com"
+            try:
+                chromepath = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+                subprocess.Popen([chromepath, url])
+            except Exception as e:
+                print(f"Failed to open Chrome: {e}")
+                speak("Unable to open Chrome, opening with default browser.")
+                wb.open_new_tab(url)
+        elif 'logout' in query:
+            os.system("shutdown -l")
+        elif 'shutdown' in query:
+            os.system("shutdown -/s /t 1")
+        elif 'restart' in query:
+            os.system("shutdown /r /t /1")
+        elif 'play songs' in query:
+            song_dir = r"C:\Users\kaushik\Downloads\Music"
+            songs = os.listdir(song_dir)
+            os.startfile(os.path.join(song_dir, songs[0]))
+        elif 'remember that' in query:
+            speak("What should i remember")
+            data = takeCommand()
+            speak("You said me to remember this data" + data)
+            remember = open('data.txt','w')
+            remember.write(data)
+            remember.close()
+        elif 'do you remember' in query:
+            remember = open('data.txt','r')
+            speak("You said me to remember this data" + remember.read())
+        elif "screenshot" in query:
+            speak("Taking screenshot")
+            screenshot()
+            speak("Screenshot Saved")
+        elif "cpu" in query:
+            cpu()
+        elif "joke" in query:
+            jokes()
+
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 5:46 PM - Pritam: Recharge khatam ho gya mera🥲
+6/18/24, 5:46 PM - Kaushik: Islie leave hogaya shayad
+6/18/24, 5:49 PM - Kaushik: # JARVIS AI Assistant
+
+## Overview
+
+This project implements JARVIS, an AI assistant capable of executing various commands such as providing the current time and date, sending emails, searching on Wikipedia, and more. It leverages various Python libraries to create an interactive and efficient virtual assistant.
+
+## Features
+
+- **Real-time Voice Command Processing**: Responds to user commands through voice recognition.
+- **Time and Date Reporting**: Provides the current time and date.
+- **Email Sending**: Sends emails via voice command.
+- **Wikipedia Search**: Searches and reads summaries from Wikipedia.
+- **Web Search**: Opens web pages in the default browser or Google Chrome.
+- **System Commands**: Executes system commands such as logout, shutdown, and restart.
+- **Music Playback**: Plays songs from a specified directory.
+- **Memory Function**: Remembers and recalls user-specified information.
+- **Screenshot Capture**: Takes and saves screenshots.
+- **System Monitoring**: Reports CPU usage and battery status.
+- **Joke Telling**: Tells a random joke.
+
+## Tech Stack
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![pyttsx3](https://img.shields.io/badge/pyttsx3-darkgreen?style=for-the-badge)
+- ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-5C3EE8?style=for-the-badge)
+- ![Wikipedia](https://img.shields.io/badge/Wikipedia-013243?style=for-the-badge)
+- ![smtplib](https://img.shields.io/badge/smtplib-150458?style=for-the-badge)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-darkblue?style=for-the-badge)
+- ![NumPy](https://img.shields.io/badge/NumPy-darkred?style=for-the-badge)
+- ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
+- ![pyjokes](https://img.shields.io/badge/pyjokes-lightgrey?style=for-the-badge)
+
+## How It Works
+
+1. **Voice Command**: Listens for and processes user voice commands.
+2. **Time and Date Reporting**: Reports the current time and date.
+3. **Email Sending**: Sends emails via a configured SMTP server.
+4. **Wikipedia Search**: Searches for and reads summaries from Wikipedia.
+5. **Web Search**: Opens web pages in the default browser or Google Chrome.
+6. **System Commands**: Executes system commands like logout, shutdown, and restart.
+7. **Music Playback**: Plays a song from a specified directory.
+8. **Memory Function**: Remembers and recalls information as instructed by the user.
+9. **Screenshot Capture**: Captures and saves screenshots.
+10. **System Monitoring**: Reports CPU usage and battery status.
+11. **Joke Telling**: Tells a random joke.
+
+## Future Enhancements
+
+- Integration with IoT devices for real-time alerting.
+- Cloud deployment for scalable monitoring solutions.
+- Enhancements in detection and classification accuracy.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request. You can also open issues for feature requests or bug reports.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+6/18/24, 5:49 PM - Pritam: Remove karke leave bol diya
+6/18/24, 5:49 PM - Pritam: <Media omitted>
+6/18/24, 5:50 PM - Kaushik: import pyttsx3
+import datetime
+import speech_recognition as sr
+import wikipedia
+import smtplib
+import subprocess
+import webbrowser as wb
+import os
+import pyautogui
+import psutil
+import pyjokes
+
+engine = pyttsx3.init()
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+def time():
+    Time = datetime.datetime.now().strftime("%I:%M:%S")
+    speak("The current time is")
+    speak(Time)
+
+def date():
+    year = int(datetime.datetime.now().year)
+    month = int(datetime.datetime.now().month)
+    day = int(datetime.datetime.now().day)
+    speak("The current date is ")
+    speak(day)
+    speak(month)
+    speak(year)
+
+def wishme():
+    speak("Welcome back sir")
+    hour = datetime.datetime.now().hour
+    if hour >= 6 and hour < 12:
+        speak("Good morning sir")
+    elif hour >= 12 and hour < 18:
+        speak("Good afternoon sir")
+    elif hour >= 18 and hour < 24:
+        speak("Good evening sir")
+    else:
+        speak("Good night sir")
+    speak("Jarvis at your service, How can I help you")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print(f"User said: {query}")
+    except Exception as e:
+        print(e)
+        speak("Say that again please...")
+        return "None"
+    return query
+
+def sendEmail(to, content):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login('21104016.kaushik.prabhunerurkar@gmail.com', 'password')
+    server.sendmail('21104016.kaushik.prabhunerurkar@gmail.com', to, content)
+    server.close()
+
+def screenshot():
+    img = pyautogui.screenshot()
+    img.save(r"C:\Users\kaushik\Downloads\Music\ss.png")
+
+def cpu():
+    usage = str(psutil.cpu_percent())
+    speak("CPU is at " + usage)
+    battery= psutil.sensors_battery()
+    speak("Battery is at " )
+    speak( battery.percent)
+
+def jokes():
+    speak(pyjokes.get_joke())
+
+
+if __name__ == "__main__":
+    wishme()
+    while True:
+        query = takeCommand().lower()
+
+        if 'time' in query:
+            time()
+        elif 'date' in query:
+            date()
+        elif 'wikipedia' in query:
+            speak("Searching Wikipedia")
+            query = query.replace("wikipedia", "")
+            try:
+                results = wikipedia.summary(query, sentences=2)
+                speak("According to Wikipedia")
+                speak(results)
+                print(results)
+            except wikipedia.exceptions.DisambiguationError as e:
+                speak("There were multiple results for that query, please be more specific.")
+                print(e.options)
+            except wikipedia.exceptions.PageError:
+                speak("I could not find any results for your query.")
+            except Exception as e:
+                speak("Sorry, I encountered an error while searching Wikipedia.")
+                print(e)
+        elif 'send email' in query:
+            try:
+                speak("What should I say?")
+                content = takeCommand()
+                to = 'kaushik020603@gmail.com'
+                sendEmail(to, content)
+                speak("Email has been sent")
+            except Exception as e:
+                print(e)
+                speak("Unable to send the email")
+        elif 'search in chrome' in query:
+            speak("What should I search?")
+            search = takeCommand().lower()
+            url = f"https://{search}.com"
+            try:
+                chromepath = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+                subprocess.Popen([chromepath, url])
+            except Exception as e:
+                print(f"Failed to open Chrome: {e}")
+                speak("Unable to open Chrome, opening with default browser.")
+                wb.open_new_tab(url)
+        elif 'logout' in query:
+            os.system("shutdown -l")
+        elif 'shutdown' in query:
+            os.system("shutdown -/s /t 1")
+        elif 'restart' in query:
+            os.system("shutdown /r /t /1")
+        elif 'play songs' in query:
+            song_dir = r"C:\Users\kaushik\Downloads\Music"
+            songs = os.listdir(song_dir)
+            os.startfile(os.path.join(song_dir, songs[0]))
+        elif 'remember that' in query:
+            speak("What should i remember")
+            data = takeCommand()
+            speak("You said me to remember this data" + data)
+            remember = open('data.txt','w')
+            remember.write(data)
+            remember.close()
+        elif 'do you remember' in query:
+            remember = open('data.txt','r')
+            speak("You said me to remember this data" + remember.read())
+        elif "screenshot" in query:
+            speak("Taking screenshot")
+            screenshot()
+            speak("Screenshot Saved")
+        elif "cpu" in query:
+            cpu()
+        elif "joke" in query:
+            jokes()
+
+        elif 'offline' in query:
+            speak("Going offline. Goodbye!")
+            break
+6/18/24, 5:53 PM - Kaushik: https://github.com/kaushikp020603/Jarvis-AI-Assistant-Using-Python
+6/18/24, 5:55 PM - Akanksha Bhoir: video ek ek kadhu ka? <This message was edited>
+6/18/24, 5:55 PM - Akanksha Bhoir: mag merge karu pahijje ter
+6/18/24, 5:55 PM - Kaushik: Kasa pan chalel
+6/18/24, 5:55 PM - Akanksha Bhoir: ok
+6/18/24, 6:09 PM - Pritam: Itna details dal diya ek setup guide bhi dal de
+6/18/24, 6:09 PM - Kaushik: 💀😈
+6/18/24, 6:09 PM - Kaushik: Noi
+6/18/24, 6:10 PM - Pritam: <Media omitted>
+6/18/24, 6:11 PM - Kaushik: <Media omitted>
+6/18/24, 6:11 PM - Kaushik: <Media omitted>
+6/18/24, 6:11 PM - Kaushik: <Media omitted>
+6/18/24, 6:11 PM - Kaushik: <Media omitted>
+6/18/24, 6:11 PM - Kaushik: <Media omitted>
+6/18/24, 6:14 PM - Pritam: <Media omitted>
+6/18/24, 6:15 PM - Kaushik: <Media omitted>
+6/18/24, 6:19 PM - Kaushik: https://youtube.com/shorts/Ns6pFF9n4Ic?si=czvDWvbn-7LSbCMT
+6/18/24, 6:19 PM - Kaushik: Our group members to me
+6/18/24, 6:20 PM - Pritam: <Media omitted>
+6/18/24, 6:21 PM - Gayuuuuu😛: 😂😂
+6/18/24, 6:21 PM - Gayuuuuu😛: <Media omitted>
+6/18/24, 6:22 PM - Kaushik: <Media omitted>
+6/18/24, 6:28 PM - Akanksha Bhoir: Mi 3-4 easy command ghetle ahet
+6/18/24, 6:29 PM - Akanksha Bhoir: <Media omitted>
+6/18/24, 6:35 PM - Kaushik: 🤡🤡cool
+6/18/24, 6:37 PM - Akanksha Bhoir: Kay zhal ?
+6/18/24, 6:37 PM - Akanksha Bhoir: Are me te songs wala pan visrli
+6/18/24, 6:38 PM - Akanksha Bhoir: Ani Google la browser block kartoy
+6/18/24, 6:38 PM - Kaushik: Te sod song karna ek add
+6/18/24, 6:38 PM - Kaushik: Chaiya chaiya chaiya chaiya
+6/18/24, 6:38 PM - Akanksha Bhoir: Okay
+6/18/24, 6:38 PM - Kaushik: 🤣
+6/18/24, 6:38 PM - Akanksha Bhoir: Chaiya chaiya nako dusra takte
+6/18/24, 6:38 PM - Kaushik: Vegla banav chalel ek ajun
+6/18/24, 6:38 PM - Kaushik: <Media omitted>
+6/18/24, 6:38 PM - Kaushik: Ok  banvun pathav
+6/18/24, 6:38 PM - Kaushik: 7.30 la yeun meet var post karuya?
+6/18/24, 6:38 PM - Akanksha Bhoir: Tyala suru hoi paryant Jarvis bolel parat bol
+6/18/24, 6:39 PM - Kaushik: 🤣
+6/18/24, 6:42 PM - Pritam: Next project kya banayenge?
+6/18/24, 6:45 PM - Kaushik: Cyber me karna h next?
+6/18/24, 6:46 PM - Kaushik: Kali linux installl karna padega bas
+6/18/24, 6:47 PM - Kaushik: @918591250210 @918856834922 @919369096097 @919322229318 @919921103330 @918591463765
+6/18/24, 6:48 PM - Kaushik: .
+6/18/24, 6:48 PM - Gayuuuuu😛: Okk
+6/18/24, 6:48 PM - Kaushik: Kare ye phir?
+6/18/24, 6:48 PM - Gayuuuuu😛: Hooo
+6/18/24, 6:48 PM - Kaushik: POLL:
+Tomm
+OPTION: Again ML (2 votes)
+OPTION: Something new about cybersec (3 votes)
+
+6/18/24, 6:49 PM - You pinned a message
+6/18/24, 6:49 PM - Akanksha Bhoir: Os aahe ka ?
+6/18/24, 6:49 PM - Kaushik: Ubuntu install kelela na
+6/18/24, 6:49 PM - Kaushik: Virtual box madhe
+6/18/24, 6:49 PM - Kaushik: Tasach
+6/18/24, 6:49 PM - Kaushik: Mi guide pathvin
+6/18/24, 6:49 PM - Akanksha Bhoir: Okay 👍
+6/18/24, 6:49 PM - Pritam: Hmpe Linux distro pehle se hai
+6/18/24, 6:49 PM - Akanksha Bhoir: <Media omitted>
+6/18/24, 6:50 PM - Kaushik: Kali Linux lo
+6/18/24, 6:50 PM - Kaushik: Ubuntu se nai chalega
+6/18/24, 6:50 PM - Kaushik: <Media omitted>
+6/18/24, 6:50 PM - Pritam: Mai chala dunga
+6/18/24, 6:50 PM - Akanksha Bhoir: Bro boot nahi karycha ahe na ?
+6/18/24, 6:50 PM - Kaushik: No
+6/18/24, 6:50 PM - Pritam: Dono debian based distro hai
+6/18/24, 6:50 PM - Akanksha Bhoir: Because mereko uska permission nahi hain new os ka
+6/18/24, 6:51 PM - Kaushik: Ubuntu me vo packages nai aate
+6/18/24, 6:51 PM - Pritam: Alag se install ho jayega
+6/18/24, 6:51 PM - Kaushik: 🙂karte baithna phir
+6/18/24, 6:51 PM - Pritam: Ho jayega sab
+6/18/24, 6:51 PM - Kaushik: <Media omitted>
+6/18/24, 6:52 PM - Kaushik: Padhai karo bca ki
+6/18/24, 6:52 PM - Pritam: Merko thora sikhna taki khud ka SaaS app ka security test krlu
+6/18/24, 6:52 PM - Kaushik: Lol
+6/18/24, 6:52 PM - Pritam: Jaa re engineering kar
+6/18/24, 6:52 PM - Kaushik: Vacation h
+6/18/24, 6:52 PM - Pritam: Bot bana rha h
+6/18/24, 6:52 PM - Kaushik: <Media omitted>
+6/18/24, 6:52 PM - Pritam: Mera bhi hai
+6/18/24, 6:52 PM - Kaushik: Windows password cracking?
+6/18/24, 6:53 PM - Pritam: Ab sidha exam dene jaunga
+6/18/24, 6:53 PM - Kaushik: Ye kare?
+6/18/24, 6:53 PM - Pritam: Chii
+6/18/24, 6:53 PM - Pritam: Server down krenge
+6/18/24, 6:53 PM - Kaushik: Mera exam ke baad wala h
+6/18/24, 6:53 PM - Kaushik: 😂
+6/18/24, 6:53 PM - Pritam: Mera pehle hota h 😗
+6/18/24, 6:53 PM - Pritam: Middle man attack?
+6/18/24, 6:54 PM - Pritam: SQL injection ya fir CXX karte h
+6/18/24, 6:56 PM - Kaushik: Vo bachpan me karte h
+6/18/24, 6:56 PM - Akanksha Bhoir: Yaar atach LinkedIn cha karun gheuyat ka
+6/18/24, 6:56 PM - Kaushik: Chaha pitoy
+6/18/24, 6:57 PM - Kaushik: Busy aahe ka nantar
+6/18/24, 6:57 PM - Pritam: 🥲
+6/18/24, 6:57 PM - Akanksha Bhoir: 💪🏋️‍♀️
+6/18/24, 6:58 PM - Kaushik: Oh
+6/18/24, 7:04 PM - Kaushik: Meet karna h?
+6/18/24, 7:04 PM - Kaushik: LinkedIn post?
+6/18/24, 7:05 PM - Pritam: Han karo mai betha hu like karne ke liye
+6/18/24, 7:05 PM - Kaushik: Non includive member
+6/18/24, 7:06 PM - Pritam: Mai toh bas inspiration lene ke liye join Kara
+6/18/24, 7:07 PM - Gayuuuuu😛: 😂😂🤣🤣
+6/18/24, 7:07 PM - Pritam: Soch rha hu ek bot bhi add kardu apne SaaS app par
+6/18/24, 7:13 PM - Kaushik: Waah
+6/18/24, 7:13 PM - Kaushik: My bad
+6/18/24, 7:13 PM - Kaushik: POLL:
+Tomm
+OPTION: ML again (0 votes)
+OPTION: Something new about cybersec (1 vote)
+
+6/18/24, 7:13 PM - You pinned a message
+6/18/24, 7:13 PM - Kaushik: Ab karo
+6/18/24, 7:13 PM - Kaushik: 🙂
+6/18/24, 7:14 PM - Riya Apsit: Kali download karne nhi aata
+6/18/24, 7:16 PM - Kaushik: Me bhejta hu
+6/18/24, 7:16 PM - Kaushik: Final karlo
+6/18/24, 7:18 PM - Akanksha Bhoir: Meet link bhi send karo
+6/18/24, 7:18 PM - Akanksha Bhoir: Same link ?
+6/18/24, 7:18 PM - Kaushik: Nako
+6/18/24, 7:18 PM - Kaushik: Wait
+6/18/24, 7:18 PM - Kaushik: Mi karto
+6/18/24, 7:18 PM - Kaushik: Tumhi pan karun ghya tasa
+6/18/24, 7:18 PM - Akanksha Bhoir: Okay
+6/18/24, 7:20 PM - Kaushik: Aala mention tumhala?
+6/18/24, 7:20 PM - Kaushik: @918591250210 @918856834922 @919322229318
+6/18/24, 7:21 PM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_ai-artificialintelligence-python-activity-7208828230110224384-jqWn?utm_source=share&utm_medium=member_desktop
+6/18/24, 7:24 PM - Pritam: Support team mai mera bhi name likh deta🥲
+6/18/24, 7:24 PM - Kaushik: Tune kya kiya
+6/18/24, 7:24 PM - Kaushik: Code tak run nai kiya
+6/18/24, 7:24 PM - Kaushik: 🙂
+6/18/24, 7:24 PM - Pritam: Meeting meeting
+6/18/24, 7:24 PM - Kaushik: Inspiration wale  implementation me nai aate
+6/18/24, 7:24 PM - Kaushik: 👀
+6/18/24, 7:25 PM - Pritam: Implement kra na dimaag m vo bhi javascript mai
+6/18/24, 7:25 PM - Kaushik: <Media omitted>
+6/18/24, 7:25 PM - Kaushik: Par humara post python me j
+6/18/24, 7:26 PM - Pritam: Ye bhi Thik hai
+6/18/24, 7:27 PM - Kaushik: <Media omitted>
+6/18/24, 7:27 PM - Akanksha Bhoir: are but mag amhi post nako karu ka ?
+6/18/24, 7:27 PM - Kaushik: Kara na
+6/18/24, 7:27 PM - Kaushik: Fakt mention kara mala
+6/18/24, 7:27 PM - Akanksha Bhoir: checking
+6/18/24, 7:27 PM - Kaushik: I mean baki che tighan na
+6/18/24, 7:38 PM - Riya Apsit: ok check karne de
+6/18/24, 7:40 PM - Riya Apsit: without video kese upoad kare
+6/18/24, 7:41 PM - Kaushik: Matlab
+6/18/24, 7:42 PM - Riya Apsit: post karna h na linkedin pe
+6/18/24, 7:42 PM - Akanksha Bhoir: check karo mention aya kya
+6/18/24, 7:43 PM - Kaushik: null
+6/18/24, 7:43 PM - Kaushik: 👍
+6/18/24, 7:44 PM - Riya Apsit: 👍
+6/18/24, 7:46 PM - Kaushik: So guys how was making AI with a lot of if else statements?
+6/18/24, 7:47 PM - Riya Apsit: superb😌
+6/18/24, 7:47 PM - Pritam: Bot*
+6/18/24, 7:48 PM - Pritam: llama try krega?
+6/18/24, 7:48 PM - Kaushik: Hackathon me kiya tha
+6/18/24, 7:48 PM - Kaushik: Tough h
+6/18/24, 7:48 PM - Kaushik: 🥲
+6/18/24, 7:48 PM - Pritam: Fir toh maza ayega
+6/18/24, 7:48 PM - Kaushik: Chatbot try kiya tha humne usse
+6/18/24, 7:49 PM - Pritam: Kaisa tha
+6/18/24, 7:49 PM - Kaushik: Haar maan ke chatgpt ka model liya
+6/18/24, 7:50 PM - Kaushik: Free credits milte h uske
+6/18/24, 7:50 PM - Kaushik: Per query 0.05 dollar cut hota h
+6/18/24, 7:50 PM - Kaushik: Aur total 5$ milte h
+6/18/24, 7:51 PM - Pritam: Ye toh bas 1 month ke liye milta hai na
+6/18/24, 7:51 PM - Kaushik: Yes
+6/18/24, 7:51 PM - Kaushik: Vo bhi new account only
+6/18/24, 7:51 PM - Riya Apsit: mentioned ma kya direct naam likhna h
+6/18/24, 7:51 PM - Kaushik: null
+6/18/24, 7:51 PM - Kaushik: @ karke
+6/18/24, 7:51 PM - Riya Apsit: ok
+6/18/24, 7:53 PM - Pritam: Beijjati karta hai
+6/18/24, 7:54 PM - Kaushik: 👀😂
+6/18/24, 7:54 PM - Pritam: Ye LLM mai bhi blockchain ke jaisa entry barrier h
+6/19/24, 12:51 AM - Kaushik: https://www.linkedin.com/posts/kaushik-prabhu-nerurkar_kaushik-portfolio-activity-7208910967403909120-kYwm?utm_source=share&utm_medium=member_desktop
+6/19/24, 1:00 AM - You added Vaidehi Apsit
+6/19/24, 1:01 AM - Kaushik: https://www.youtube.com/watch?v=sAMnXte56yY
+6/19/24, 1:01 AM - Kaushik: kal ke meet ke Pehle sab log ye  setup karke rakhna
+6/19/24, 1:17 AM - Kaushik: Not for @919369096097
+6/19/24, 1:17 AM - Pritam: Weeks/ months hard work nice
+6/19/24, 1:17 AM - Kaushik: 😂😂😂
+6/19/24, 1:17 AM - Kaushik: <Media omitted>
+6/19/24, 1:17 AM - Kaushik: Ab sach thode bolunga
+6/19/24, 1:17 AM - Pritam: Company join nahi Kari koi bhi ct banana pehle se suru
+6/19/24, 1:18 AM - Kaushik: 🤡🤡
+6/19/24, 1:18 AM - Kaushik: Yes
+6/19/24, 1:18 AM - Kaushik: Prep abhi se chalu h
+6/19/24, 1:18 AM - Pritam: Ye bhi thik hai
+6/19/24, 1:20 AM - Kaushik: Aur ek member added guys swagat mat karna iska @919969263901
+6/19/24, 1:20 AM - Vaidehi Apsit: 🙏🙏🐥
+6/19/24, 1:20 AM - Kaushik: <Media omitted>
+6/19/24, 1:21 AM - Vaidehi Apsit: <Media omitted>
+6/19/24, 1:21 AM - Pritam: Vvpat
+6/19/24, 1:22 AM - Vaidehi Apsit: Myself Vaidehi vichare
+6/19/24, 1:22 AM - Vaidehi Apsit: Hello
+6/19/24, 1:22 AM - Pritam: Ohh hii
+6/19/24, 1:22 AM - Vaidehi Apsit: This message was deleted
+6/19/24, 1:23 AM - Kaushik: Pat cumins?
+6/19/24, 1:23 AM - Pritam: Election wala vvpat
+6/19/24, 1:23 AM - Kaushik: Lol
+6/19/24, 1:27 AM - Vaidehi Apsit: ???
+6/19/24, 1:32 AM - Pritam: Not you
+6/19/24, 1:44 AM - Kaushik: @919369096097
+6/19/24, 1:44 AM - Kaushik: <Media omitted>
+6/19/24, 1:52 AM - Pritam: Hehe
+6/19/24, 1:52 AM - Pritam: Badhiya h
+6/19/24, 1:52 AM - Kaushik: <Media omitted>
+6/19/24, 1:52 AM - Kaushik: <Media omitted>
+6/19/24, 1:53 AM - Pritam: <Media omitted>
+6/19/24, 1:53 AM - Kaushik: <Media omitted>
+6/19/24, 1:56 AM - Pritam: <Media omitted>
+6/19/24, 1:57 AM - Kaushik: <Media omitted>
+6/19/24, 1:59 AM - Pritam: Ab ye professional site nahi hai?
+6/19/24, 1:59 AM - Kaushik: Konsi
+6/19/24, 1:59 AM - Pritam: Ye
+6/19/24, 1:59 AM - Kaushik: Matlab
+6/19/24, 2:00 AM - Pritam: 😗
+6/19/24, 2:01 AM - Kaushik: Ha toh
+6/19/24, 2:02 AM - Pritam: Toh itna sticker kyu bhej rha h
+6/19/24, 2:02 AM - Pritam: Jake soo jaa
+6/19/24, 2:03 AM - Kaushik: Wp kaha professional h
+6/19/24, 2:03 AM - Kaushik: Social h ye
+6/19/24, 2:03 AM - Kaushik: <Media omitted>
+6/19/24, 2:06 AM - Pritam: Accha Aisa kya
+6/19/24, 2:07 AM - Pritam: null
+6/19/24, 2:08 AM - Kaushik: 👀👍
+6/19/24, 2:08 AM - Pritam: Saktiyon ka galat upyog ho rha h
+6/19/24, 2:08 AM - Kaushik: <Media omitted>
+6/19/24, 2:09 AM - Pritam: <Media omitted>
+6/19/24, 10:17 AM - Kaushik: POLL:
+Meet
+OPTION: 11.30 am (3 votes)
+OPTION: 2/2.30 pm (2 votes)
+
+6/19/24, 10:17 AM - Kaushik: @918591250210 @918856834922 @919322229318 @919921103330 @919369096097
+6/19/24, 10:19 AM - Akanksha Bhoir: 12:00
+6/19/24, 10:19 AM - Kaushik: 🥲🥲option out of selection
+6/19/24, 10:19 AM - Akanksha Bhoir: 🙂
+6/19/24, 10:19 AM - Kaushik: Majority pe choose kar te h
+6/19/24, 10:28 AM - Riya Apsit: 2:30
+6/19/24, 10:28 AM - Kaushik: Lol
+6/19/24, 10:28 AM - Kaushik: Me thinking
+6/19/24, 10:28 AM - Riya Apsit: Abhi mereko kaam hota h re isiliye
+6/19/24, 10:28 AM - Kaushik: Subah ek chota ML project and dupahar se linux seekhenge ache se*
+6/19/24, 10:29 AM - Kaushik: Linux basic toh sabko aata hi h
+6/19/24, 10:29 AM - Riya Apsit: Okayss
+6/19/24, 10:29 AM - Riya Apsit: 12
+6/19/24, 10:29 AM - Kaushik: Par is baari aise seekho ki na bhulo
+6/19/24, 10:29 AM - Riya Apsit: Yes
+6/19/24, 10:29 AM - Kaushik: Done then
+6/19/24, 10:29 AM - Kaushik: Majority strikes at 12
+6/19/24, 10:30 AM - Riya Apsit: gg
+6/19/24, 10:30 AM - Pritam: Mai toh bhul jata hu fir docs dekhna padta hai
+6/19/24, 10:30 AM - Kaushik: 😕ha toh phir seekhna ache se
+6/19/24, 10:30 AM - Pritam: Itna Sara chiz hai kaise yaad rkhega koi
+6/19/24, 10:31 AM - Kaushik: 🙂Linux pro banna h toh rakhna padta h
+6/19/24, 10:31 AM - Pritam: Vo 2,4 saal Mai banne ka planning hai
+6/19/24, 10:31 AM - Kaushik: Linux hone ke baaad hum   ethical hacking related chize seekhenge aur saath hi me ML ka bhi kuch karenge per day
+6/19/24, 10:32 AM - Pritam: cd folder or ls command run krne se pro nahi bante
+6/19/24, 10:32 AM - Riya Apsit: gg
+6/19/24, 10:32 AM - Kaushik: 👀me Scripting tak ka bol raha hu
+6/19/24, 10:33 AM - Pritam: Scripting padh rha tha Mai basic badha hai
+6/19/24, 10:33 AM - Kaushik: Hum sab ne bhi kara h sem 4 me
+6/19/24, 10:33 AM - Kaushik: 👀
+6/19/24, 10:33 AM - Pritam: Maine toh yt se aur docs se Kara college tatti h
+6/19/24, 10:34 AM - Kaushik: Tu so ja  bhai , meet tere lie nai h
+6/19/24, 10:34 AM - Kaushik: 👀
+6/19/24, 10:34 AM - Pritam: Kaahe
+6/19/24, 10:34 AM - Kaushik: Aapko aata h
+6/19/24, 10:35 AM - Pritam: Aaja apna project dikhata hu kitna bana hai
+6/19/24, 10:35 AM - Kaushik: No need😂
+6/19/24, 10:36 AM - Pritam: Dekh toh le production grade application
+6/19/24, 10:36 AM - Pritam: Pura software architecture explain bhi kar dunga
+6/19/24, 10:38 AM - Kaushik: 🤡nai
+6/19/24, 10:39 AM - Pritam: Accha link bana ke bhej meet ka test Karu laptop m chalega ya nahi
+6/19/24, 10:40 AM - Pritam: Old laptop hai na🥲
+6/19/24, 10:40 AM - Kaushik: Kya chalega ya nai
+6/19/24, 10:40 AM - Pritam: Mtlb lag hoga ya nahi
+6/19/24, 11:49 AM - Kaushik: No meet now
+6/19/24, 11:49 AM - Kaushik: Got work
+6/19/24, 11:49 AM - Kaushik: Kali Linux install karlo tab tak  till 2 PM
+6/19/24, 12:44 PM - Kaushik: <Media omitted>
+6/19/24, 12:44 PM - Kaushik: 👀
+6/19/24, 1:04 PM - Kaushik: <Media omitted>
+6/19/24, 1:05 PM - Riya Apsit: offers toh aaye kam se kam
+6/19/24, 1:07 PM - Kaushik: 🥲👍h na
+6/19/24, 1:09 PM - Kaushik: POLL:
+Kiska kali linux install hogaya?
+OPTION: Me (1 vote)
+OPTION: Not me (2 votes)
+
+6/19/24, 1:10 PM - Kaushik: Mene 6 months pehle kiya tha
+6/19/24, 1:11 PM - Riya Apsit: time le rha h
+6/19/24, 1:11 PM - Riya Apsit: 3 gb hua h bas
+6/19/24, 1:16 PM - Kaushik: Installation me aur 20 mins lagta h
+6/19/24, 1:19 PM - Riya Apsit: haaa toh phele ML karte h na plss🥹🥹
+6/19/24, 1:19 PM - Kaushik: Vahi socha h mene bhi
+6/19/24, 1:19 PM - Kaushik: Abhi aarahe ho?
+6/19/24, 1:19 PM - Kaushik: Bore horaha h😂 agar free ho toh kar lete h
+6/19/24, 1:19 PM - Kaushik: Side by side ml ka ab
+6/19/24, 1:19 PM - Riya Apsit: lunch karke
+6/19/24, 1:19 PM - Akanksha Bhoir: yes 10 min ruk jao
+6/19/24, 1:21 PM - Kaushik: Mera lunch 2 ko hoga probably
+6/19/24, 1:23 PM - Kaushik: Is baari wala gui ke saath banayenge
+6/19/24, 1:23 PM - Kaushik: I'll teach you'll ki code se gui banana in 3 mins or less agar tum fast ho toh
+6/19/24, 1:23 PM - Kaushik: With the help of flask
+6/19/24, 1:24 PM - Kaushik: @919921103330  tumhi yenar aahe ka aaj?
+6/19/24, 1:25 PM - Siddhi YP🤪: Hoo yess
+6/19/24, 1:26 PM - Kaushik: Ok
+6/19/24, 1:28 PM - Siddhi YP🤪: Time ?
+6/19/24, 1:28 PM - Kaushik: first meet kab karna h?
+6/19/24, 1:29 PM - Kaushik: jaldi se ML ka project seekh lenge then gui
+6/19/24, 1:29 PM - Kaushik: then linux
+6/19/24, 1:29 PM - Kaushik: ye plan h aajka
+6/19/24, 1:29 PM - Pritam: Gui?
+6/19/24, 1:30 PM - Kaushik: ye abhi tak terminal and collab based hi kiye na
+6/19/24, 1:30 PM - Kaushik: is baari flask and html use karenge
+6/19/24, 1:30 PM - Pritam: Thik h toh frontend bola kar
+6/19/24, 1:31 PM - Kaushik: panchayat dekho ho?
+6/19/24, 1:31 PM - Pritam: No
+6/19/24, 1:31 PM - Kaushik: vidhayak jese abuse karke bhagata h usme vese bhaga dunga group se
+6/19/24, 1:31 PM - Kaushik: 😂
+6/19/24, 1:32 PM - Kaushik: kitna chuchur chuchur karta h bhai shant baith na
+6/19/24, 1:32 PM - Pritam: Chii sasur
+6/19/24, 1:32 PM - Kaushik: heinnnnnnnnnnnnn......................... chiiiiiiiiiiiiiiiii sasur......................... heinnnnn,,,, hein
+6/19/24, 1:32 PM - Akanksha Bhoir: Meet mg kadhi ?
+6/19/24, 1:32 PM - Kaushik: https://meet.google.com/yga-xpmn-hdh
+6/19/24, 1:33 PM - Kaushik: lo
+6/19/24, 1:33 PM - Akanksha Bhoir: Jevtey
+6/19/24, 1:33 PM - Kaushik: 😂
+6/19/24, 1:33 PM - Akanksha Bhoir: Tu 2 la lunch bola na
+6/19/24, 1:33 PM - Akanksha Bhoir: 🥲🙂
+6/19/24, 1:33 PM - Kaushik: hmm
+6/19/24, 1:33 PM - Kaushik: majha lunch 2 la
+6/19/24, 1:33 PM - Akanksha Bhoir: <Media omitted>
+6/19/24, 1:33 PM - Kaushik: mhanun lavkar bolvat hota
+6/19/24, 1:34 PM - Siddhi YP🤪: Udya pasun ek time la sglyani lunch kruyat 😂
+6/19/24, 1:34 PM - Akanksha Bhoir: ☹️🥹
+6/19/24, 1:35 PM - Kaushik: not possible for me
+6/19/24, 1:35 PM - Kaushik: fix nai ahe
+6/19/24, 1:37 PM - Siddhi YP🤪: Mostly 2 prynt sglyanch lunch hotoch n ..max 3
+6/19/24, 1:37 PM - Pritam: accept kar mera
+6/19/24, 1:37 PM - Akanksha Bhoir: 2 lunch time
+6/19/24, 1:37 PM - Akanksha Bhoir: Thevuyat
+6/19/24, 1:37 PM - Kaushik: morning la bolavto tar sagle noon kartat
+6/19/24, 1:37 PM - Kaushik: 2 pm lunch time ya 2 lunch time
+6/19/24, 1:38 PM - Siddhi YP🤪: Pm ree 😂
+6/19/24, 1:38 PM - Kaushik: akele aake kya karega
+6/19/24, 1:38 PM - Pritam: accept toh kar pehle
+6/19/24, 1:39 PM - Kaushik: nai project nai dekhna
+6/19/24, 1:39 PM - Pritam: 🫠
+6/19/24, 1:40 PM - Akanksha Bhoir: Lunch time thevuyat Break time
+6/19/24, 1:40 PM - Kaushik: ok
+6/19/24, 1:42 PM - Kaushik: import pandas as pd
+import numpy as np
+import re
+
+import matplotlib.pyplot as plt
+from PIL import Image
+
+from collections import Counter
+from wordcloud import WordCloud , STOPWORDS, ImageColorGenerator
+6/19/24, 1:43 PM - Pritam: firse chalao mera chhut gaya
+6/19/24, 1:44 PM - Kaushik: itna hi hua
+6/19/24, 1:44 PM - Kaushik: import
+6/19/24, 1:44 PM - Riya Apsit: ok
+6/19/24, 1:45 PM - Kaushik: Export kiska karu chat
+6/19/24, 1:45 PM - Kaushik: 👀😂
+6/19/24, 1:45 PM - Riya Apsit: network unstable h
+6/19/24, 1:47 PM - Riya Apsit: tune vid stop kiya h
+6/19/24, 1:47 PM - Kaushik: Ha
+6/19/24, 1:47 PM - Riya Apsit: chat kese download karte
+6/19/24, 1:47 PM - Kaushik: <Media omitted>
